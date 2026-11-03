@@ -202,7 +202,7 @@ export const BaroLoop: React.FC = () => {
   return <AbsoluteFill>
     <Heading sub="Baroreceptor reflex (PPT hlm 76–77)">{up ? 'Skenario 1: Tekanan Naik' : 'Skenario 2: Tekanan Turun'}</Heading>
     <Svg>
-      {pos.map((p, i) => { const q = pos[(i + 1) % 5]; return <Arrow key={i} x1={lerp(p[0], q[0], 0.22)} y1={lerp(p[1], q[1], 0.22)} x2={lerp(p[0], q[0], 0.78)} y2={lerp(p[1], q[1], 0.78)} color={col} w={6} t={vis((i + 1) % 5)} />; })}
+      {pos.map((p, i) => { const q = pos[(i + 1) % 5]; return <Arrow key={i} x1={lerp(p[0], q[0], 0.22)} y1={lerp(p[1], q[1], 0.22)} x2={lerp(p[0], q[0], 0.78)} y2={lerp(p[1], q[1], 0.78)} color={col} w={6} t={i === 4 ? 0 : Math.min(vis(i), vis(i + 1))} />; })}
       {items.map((t, i) => <Box key={i + base} x={pos[i][0]} y={pos[i][1]} w={520} h={90} t={t} c={col} o={vis(i)} fs={26} />)}
       <text x={960} y={480} fill={C.text} fontSize={34} textAnchor="middle" fontWeight={900} opacity={step >= 6 ? ap(6) : 0}>🌡️ Termostat tubuh</text>
       <text x={960} y={525} fill={C.dim} fontSize={26} textAnchor="middle" opacity={step >= 6 ? ap(6) : 0}>sensor → pusat → efektor → titik setel</text>
