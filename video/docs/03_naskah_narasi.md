@@ -8,618 +8,618 @@ _Baris bertanda **[Klarifikasi]** adalah tambahan penjelasan ilmiah, bukan isi s
 
 ### Scene `intro` — visual: Cover (PPT hlm 1)
 
-- Selamat datang. Kita akan belajar fisiologi vaskular: bagaimana pembuluh darah bekerja.
-- Materinya mengikuti slide kuliah dokter Dian Aristia Rachmayanti.
-- Tujuannya memahami, bukan menghafal.
+- Hai, selamat datang! Hari ini kita bakal ngulik fisiologi vaskular, alias gimana sih pembuluh darah itu kerja.
+- Materinya ngikutin slide kuliah dokter Dian Aristia Rachmayanti, jadi aman buat persiapan ujian.
+- Santai aja, targetnya kamu paham, bukan sekadar hafal.
 
 ### Scene `objectives` — visual: Objectives (PPT hlm 2)
 
-- Ada lima tujuan belajar.
-- Struktur dan fungsi pembuluh darah.
-- Hemodinamika: hubungan tekanan, aliran, dan resistensi.
-- Komponen tekanan darah: sistolik, diastolik, tekanan nadi, dan MAP.
-- Mekanisme aliran balik vena.
-- Serta kontrol lokal, saraf, dan hormon yang mengatur aliran dan tekanan darah.
+- Oke, ada lima misi yang mau kita tuntaskan.
+- Satu, kenalan sama struktur dan fungsi pembuluh darah.
+- Dua, hemodinamika: hubungan tekanan, aliran, dan resistensi.
+- Tiga, bedain sistolik, diastolik, tekanan nadi, dan MAP.
+- Empat, gimana darah bisa balik ke jantung lewat vena.
+- Dan lima, siapa saja bos yang ngatur aliran dan tekanan darah: kontrol lokal, saraf, dan hormon.
 
 ### Scene `three` — visual: ThreeComponents (PPT hlm 3)
 
-- Sistem sirkulasi menjaga homeostasis dengan menjadi sistem transportasi tubuh.
-- Komponennya tiga: jantung sebagai pompa, pembuluh sebagai jalur, dan darah sebagai media angkut.
-- Ketiganya mengantar oksigen, nutrien, dan hormon, serta mengangkut sisa metabolisme.
-- Seperti kota: jantung stasiun pompa, pembuluh jalan raya, darah truk pengantar.
+- Bayangin sistem sirkulasi itu jasa ekspedisi tubuh, tugasnya menjaga homeostasis.
+- Timnya cuma tiga: jantung sebagai pompa, pembuluh darah sebagai jalan, dan darah sebagai kurirnya.
+- Mereka kompak nganterin oksigen, nutrien, dan hormon, sekalian ngangkut sampah metabolisme.
+- Gampangnya kayak kota: jantung stasiun pompa, pembuluh jalan raya, darah truk pengantar paket.
 
 ## Bab 1: Sistem Sirkulasi & Pembuluh Darah
 
 
 ### Scene `ch1` — visual: ChapterTitle (PPT hlm 4)
 
-- Bab satu. Sistem sirkulasi dan pembuluh darah.
+- Yuk masuk bab satu: sistem sirkulasi dan pembuluh darah!
 
 ### Scene `loop` — visual: Circulation (PPT hlm 5)
 
-- Darah beredar dalam sistem tertutup, atau closed loop: terus berputar tanpa keluar dari pembuluh.
-- Ada dua sirkuit: pulmonal menuju paru, dan sistemik menuju seluruh tubuh.
-- Pembuluhnya membentuk pohon vaskular: arteri, arteriol, kapiler, venula, dan vena.
+- Fakta pertama: darah muter di sistem tertutup, closed loop. Nggak pernah keluar jalur, muter terus.
+- Ada dua rute: rute pulmonal ke paru, dan rute sistemik ke seluruh tubuh.
+- Jalannya bercabang kayak pohon: arteri, arteriol, kapiler, venula, terus vena.
 
 ### Scene `pulm` — visual: Circulation (PPT hlm 6)
 
-- Sirkulasi pulmonal: darah miskin oksigen, warna biru, keluar dari ventrikel kanan.
-- Lewat trunkus dan arteri pulmonalis menuju paru.
-- Di kapiler paru, O₂ masuk ke darah dan CO₂ keluar.
-- Darah kaya oksigen, warna merah, kembali lewat vena pulmonalis ke atrium kiri.
-- **[Klarifikasi]** Ingat: arteri adalah pembuluh yang menjauhi jantung, bukan pembuluh yang kaya oksigen.
+- Rute pulmonal dulu. Darah miskin oksigen, yang warna biru, berangkat dari ventrikel kanan.
+- Dia lewat trunkus dan arteri pulmonalis, langsung ke paru.
+- Di kapiler paru terjadi tukar barang: O₂ masuk ke darah, CO₂ dibuang keluar.
+- Sekarang darahnya udah kaya oksigen, jadi merah, dan pulang lewat vena pulmonalis ke atrium kiri.
+- **[Klarifikasi]** Awas jebakan ujian! Arteri itu pembuluh yang menjauhi jantung, bukan pembuluh yang pasti kaya oksigen.
 
 ### Scene `sys` — visual: Circulation (PPT hlm 7)
 
-- Sirkulasi sistemik: ventrikel kiri memompa darah kaya oksigen ke aorta.
-- Lalu ke arteri, arteriol, dan kapiler jaringan.
-- Di kapiler terjadi pertukaran gas, nutrien, dan sisa metabolisme.
-- Darah miskin oksigen kembali lewat venula, vena, dan vena kava ke atrium kanan.
+- Lanjut rute sistemik. Ventrikel kiri, si otot paling kekar, memompa darah kaya oksigen ke aorta.
+- Terus ngalir ke arteri, arteriol, sampai kapiler di jaringan.
+- Di kapiler, oksigen dan nutrien diturunkan, sampah metabolisme dijemput.
+- Darah yang udah capek pulang lewat venula, vena, dan vena kava ke atrium kanan.
 
 ### Scene `full` — visual: Circulation (PPT hlm 8)
 
-- Digabung, inilah lingkaran lengkapnya.
+- Kalau digabung, jadinya satu putaran utuh. Kita ikutin bareng ya.
 - Ventrikel kiri, aorta, arteri, arteriol, kapiler, venula, vena, vena kava, atrium kanan.
-- Lalu ventrikel kanan, arteri pulmonalis, kapiler paru, vena pulmonalis, atrium kiri, dan kembali ke ventrikel kiri.
-- Trik mengingat: kiri ke tubuh, kanan ke paru.
+- Lanjut ventrikel kanan, arteri pulmonalis, kapiler paru, vena pulmonalis, atrium kiri, dan balik lagi ke ventrikel kiri.
+- Trik gampang: kiri buat tubuh, kanan buat paru.
 
 ### Scene `classes` — visual: VesselCompare (PPT hlm 9–10)
 
-- Ada lima jenis pembuluh, masing-masing dengan tugas khusus.
-- Arteri: pembuluh penghantar dan penampung tekanan. Dindingnya tebal dan elastis, membawa darah bertekanan tinggi menjauhi jantung.
-- Arteriol: pembuluh resistensi. Otot polosnya menyempit atau melebar, mengatur resistensi perifer total dan tekanan arteri.
-- Kapiler: pembuluh pertukaran, dindingnya hanya selapis endotel.
-- Venula: pembuluh pengumpul, memulai perjalanan pulang.
-- Vena: pembuluh kapasitans. Lumen besar, dinding tipis, berkatup, menyimpan lebih dari 60% volume darah saat istirahat.
+- Sekarang kenalan sama lima jenis pembuluh. Masing-masing punya kerjaan sendiri.
+- Arteri: si penghantar dan penyimpan tekanan. Dindingnya tebal dan elastis, bawa darah bertekanan tinggi menjauhi jantung.
+- Arteriol: si pengatur resistensi. Otot polosnya bisa nyempit atau melebar, kayak keran yang ngatur resistensi perifer total.
+- Kapiler: stasiun tukar barang. Dindingnya cuma selapis endotel, tipis banget.
+- Venula: si pengumpul, yang mulai bawa darah pulang.
+- Vena: gudang darah. Lumennya lebar, dindingnya tipis, punya katup, dan nyimpan lebih dari 60% volume darah saat istirahat.
 
 ### Scene `recap1` — visual: Recap
 
-- Uji pemahaman bab satu.
-- Pembuluh apa yang membawa darah miskin oksigen namun disebut arteri? Jawabannya arteri pulmonalis, karena arahnya menjauhi jantung.
-- Pembuluh mana yang menjadi reservoir darah? Jawabannya vena.
+- Kuis kilat bab satu!
+- Pembuluh apa yang bawa darah miskin oksigen tapi tetap disebut arteri? Yap, arteri pulmonalis, karena arahnya menjauhi jantung.
+- Terus, siapa gudang darahnya? Betul, vena.
 
 ## Bab 2: Arteri & Arteriol
 
 
 ### Scene `ch2` — visual: ChapterTitle (PPT hlm 11, 20)
 
-- Bab dua. Arteri dan arteriol.
+- Bab dua: arteri dan arteriol. Yuk gas!
 
 ### Scene `arterywall` — visual: ArteryWall (PPT hlm 12–13)
 
-- Dinding arteri dirancang tahan tekanan tinggi, elastis, dan beresistensi rendah.
-- Radius besar menurunkan resistensi.
-- Endotel yang licin meminimalkan gesekan.
-- Otot polos tebal menjaga lumen tetap terbuka di bawah tekanan tinggi.
-- Kolagen memberi kekuatan tarik agar tidak robek; elastin membuatnya bisa meregang lalu kembali.
-- Hasilnya aliran mulus, tanpa turbulensi.
+- Dinding arteri itu didesain kuat banget: tahan tekanan tinggi, elastis, dan alirannya lancar.
+- Radiusnya besar, jadi resistensinya kecil.
+- Lapisan dalamnya endotel yang licin, jadi gesekannya minim.
+- Otot polosnya tebal, jadi pembuluh nggak kempes walau ditekan kuat.
+- Kolagen bikin dia kuat dan nggak gampang robek, elastin bikin dia bisa melar lalu balik lagi.
+- Hasilnya? Aliran mulus, nggak ada turbulensi.
 
 ### Scene `rapid` — visual: RapidTransit (PPT hlm 14–16)
 
-- Fungsi pertama arteri: jalur transit cepat.
-- Saat sistol, darah dipompa kuat; karena resistensi rendah, tekanan diteruskan efisien ke semua organ.
-- Oksigen terdistribusi cepat, tekanan terjaga, dan arteriol di hilir bisa mengatur aliran tiap organ.
-- Arteri tidak ikut pertukaran zat; dindingnya terlalu tebal. Ibarat jalan tol: untuk melaju, bukan bongkar muat.
+- Tugas pertama arteri: jalur ekspres.
+- Waktu sistol, darah ditembakkan kuat. Karena resistensinya kecil, tekanannya nyampe ke semua organ dengan efisien.
+- Oksigen cepat sampai, tekanan tetap terjaga, dan arteriol di depan bisa ngatur jatah tiap organ.
+- Tapi arteri nggak ikut tukar barang, dindingnya kelewat tebal. Ibarat jalan tol: buat ngebut, bukan buat bongkar muat.
 
 ### Scene `windkessel` — visual: Windkessel (PPT hlm 17–19)
 
-- Fungsi kedua: reservoir tekanan.
-- Jantung memompa berdenyut, tapi aliran ke jaringan tetap kontinu. Bagaimana bisa?
-- Saat sistol, darah yang masuk arteri lebih banyak daripada yang keluar, karena arteriol beresistensi tinggi.
-- Dinding arteri meregang dan menyimpan energi, seperti balon yang ditiup.
-- Saat diastol, jantung mengisi kembali. Dinding arteri melenting, atau recoil, mendorong darah ke depan.
-- Recoil elastis inilah pendorong aliran selama diastol.
-- **[Klarifikasi]** Klinis: arteri kaku pada lansia membuat sistolik naik dan tekanan nadi melebar.
+- Tugas kedua: jadi tabungan tekanan.
+- Jantung kan mompanya putus-putus, tapi kok aliran ke jaringan tetap lancar terus? Nah, ini rahasianya.
+- Waktu sistol, darah yang masuk arteri lebih banyak daripada yang keluar, soalnya arteriol di depannya sempit.
+- Dinding arteri jadi melar dan nyimpan energi, persis kayak balon yang lagi ditiup.
+- Waktu diastol, jantung istirahat buat ngisi ulang. Dinding arteri melenting balik, recoil, dan ndorong darah maju.
+- Jadi recoil elastis inilah mesin pendorong aliran selama diastol. Keren kan?
+- **[Klarifikasi]** Fakta klinis: arteri yang kaku pada lansia bikin sistolik naik dan tekanan nadi melebar.
 
 ### Scene `arteriole` — visual: ArterioleStructure (PPT hlm 21)
 
-- Arteriol punya otot polos tebal yang tersusun melingkar.
-- Ia dipersarafi simpatis, peka zat kimia lokal, dan dipengaruhi hormon.
-- Kontraksinya menyebabkan vasokonstriksi; relaksasinya vasodilatasi.
-- Jaringan elastisnya sedikit, jadi recoil-nya minimal.
+- Sekarang arteriol. Dia punya otot polos tebal yang melingkar kayak cincin.
+- Otot ini dengerin tiga bos: saraf simpatis, zat kimia lokal, dan hormon.
+- Kalau ototnya kontraksi, terjadi vasokonstriksi. Kalau rileks, vasodilatasi.
+- Bedanya sama arteri, jaringan elastisnya sedikit, jadi hampir nggak ada recoil.
 
 ### Scene `pdrop` — visual: PressureProfile (PPT hlm 22–23)
 
-- Arteriol adalah pembuluh resistensi utama karena radiusnya kecil.
-- Kapiler lebih kecil, tapi jumlahnya sangat banyak, sehingga total resistensinya lebih rendah.
-- Darah masuk arteriol sekitar 93 mmHg, dan keluar sekitar 37 mmHg.
-- Turun 56 mmHg: penurunan terbesar di pohon vaskular.
-- Ini menciptakan gradien yang mendorong darah ke kapiler dan vena.
-- Ayunan sistolik dan diastolik juga diredam, sehingga aliran kapiler stabil untuk pertukaran.
+- Arteriol itu juara resistensi, karena radiusnya kecil.
+- Lho, kapiler kan lebih kecil? Iya, tapi jumlahnya buanyak banget, jadi total resistensinya malah lebih rendah.
+- Perhatikan angkanya: darah masuk arteriol sekitar 93 mmHg, keluarnya tinggal sekitar 37 mmHg.
+- Anjlok 56 mmHg! Ini penurunan tekanan paling besar di seluruh pohon pembuluh.
+- Penurunan ini justru penting, karena menciptakan gradien yang dorong darah ke kapiler lalu ke vena.
+- Bonusnya, naik-turun tekanan sistolik diastolik diredam, jadi aliran di kapiler tenang buat tukar barang.
 
 ### Scene `tone` — visual: VascularTone (PPT hlm 24)
 
-- Otot polos arteriol selalu sedikit berkontraksi: inilah tonus vaskular.
-- Dari titik awal ini, arteriol bisa menyempit atau melebar.
-- Penyebab intrinsik: aktivitas miogenik. Kanal Ca²⁺ bergerbang voltase sedikit terbuka saat istirahat.
-- Penyebab ekstrinsik: saraf simpatis yang terus melepaskan norepinefrin.
-- Seperti keran setengah terbuka, siap diputar ke dua arah.
+- Otot polos arteriol itu nggak pernah bener-bener santai, selalu sedikit tegang. Ini namanya tonus vaskular.
+- Dari posisi tengah ini, arteriol bisa nyempit atau melebar sesuai kebutuhan.
+- Penyebab dari dalam: aktivitas miogenik. Kanal Ca²⁺ bergerbang voltase sedikit kebuka walau lagi istirahat.
+- Penyebab dari luar: saraf simpatis yang terus-terusan ngeluarin norepinefrin.
+- Bayangin keran setengah terbuka, siap diputar ke dua arah.
 
 ### Scene `vcvd` — visual: ConstrictDilate (PPT hlm 25)
 
-- Vasokonstriksi: otot polos berkontraksi.
-- Radius turun, resistensi naik, aliran darah turun.
-- Vasodilatasi: otot polos relaksasi.
-- Radius naik, resistensi turun, aliran darah naik.
+- Vasokonstriksi: otot polosnya meremas.
+- Radius turun, resistensi naik, aliran darah jadi seret.
+- Vasodilatasi: otot polosnya rileks.
+- Radius naik, resistensi turun, aliran darah makin deras.
 
 ### Scene `distrib` — visual: OrganDistribution (PPT hlm 26)
 
-- Arteriol tiap organ mengatur radiusnya sendiri, untuk dua tujuan.
-- Membagi curah jantung sesuai kebutuhan; saat olahraga otot mendapat lebih banyak.
-- Dan mengatur tekanan arteri lewat resistensi perifer total, atau TPR.
-- Mekanismenya: kontrol lokal dan kontrol ekstrinsik.
+- Tiap organ punya keran arteriol sendiri, dan keran ini punya dua tugas.
+- Pertama, bagi-bagi curah jantung sesuai kebutuhan. Lagi olahraga? Otot dapat jatah paling banyak.
+- Kedua, ngatur tekanan arteri lewat resistensi perifer total, atau TPR.
+- Pengaturnya ada dua tim: kontrol lokal dan kontrol ekstrinsik.
 
 ### Scene `local` — visual: LocalControl (PPT hlm 27–28)
 
-- Kontrol lokal berasal dari organ itu sendiri.
-- Kimia: perubahan metabolik. O₂ turun; CO₂, H⁺, K⁺, dan adenosin naik.
-- Endotel melepas parakrin, arteriol melebar. Saat naik tangga, otot yang bekerja mendapat aliran lebih.
-- Histamin dari sel mast: vasodilatasi dan kapiler bocor. Itu sebabnya gigitan nyamuk merah dan bengkak.
-- Fisik: regangan. Dinding teregang, kanal kation mekanis terbuka, Ca²⁺ masuk, arteriol berkonstriksi. Ini respons miogenik.
-- Shear stress, gesekan aliran pada endotel, memicu nitrat oksida dan vasodilatasi.
-- Suhu: panas melebarkan, dingin menyempitkan.
+- Kontrol lokal itu keputusan dari organnya sendiri, kayak warga yang ngatur kampungnya.
+- Pertama, sinyal kimia metabolik: O₂ turun, sementara CO₂, H⁺, K⁺, dan adenosin naik.
+- Endotel lalu ngirim pesan, arteriol melebar. Makanya pas kamu naik tangga, otot kaki dapat aliran lebih.
+- Kedua, histamin dari sel mast: pembuluh melebar dan kapiler jadi bocor. Itu sebabnya bekas gigitan nyamuk jadi merah dan bentol.
+- Ketiga, sinyal fisik regangan. Dinding ketarik, kanal kation mekanis kebuka, Ca²⁺ masuk, arteriol nyempit. Ini respons miogenik.
+- Keempat, shear stress, gesekan aliran di endotel, memicu nitrat oksida yang bikin pembuluh melebar.
+- Kelima, suhu: kepanasan bikin melebar, kedinginan bikin nyempit.
 
 ### Scene `extrinsic` — visual: ExtrinsicControl (PPT hlm 29)
 
-- Kontrol ekstrinsik datang dari luar organ: saraf simpatis dan hormon.
-- Fokusnya MAP dan TPR, bukan kebutuhan satu organ.
-- Tujuannya menjaga perfusi organ vital, terutama otak.
+- Kontrol ekstrinsik itu perintah dari pusat: saraf simpatis dan hormon.
+- Fokusnya bukan satu organ, tapi menjaga MAP dan TPR seluruh tubuh.
+- Tujuannya satu: organ vital, terutama otak, harus tetap dapat darah.
 
 ### Scene `recap2` — visual: Recap
 
-- Uji pemahaman bab dua.
-- Mengapa aliran tetap kontinu walau jantung berdenyut? Karena recoil elastis arteri saat diastol.
-- Penurunan tekanan terbesar? Di arteriol.
+- Kuis kilat bab dua!
+- Kenapa aliran tetap lancar padahal jantung mompanya putus-putus? Karena recoil elastis arteri waktu diastol.
+- Penurunan tekanan paling gede di mana? Di arteriol!
 
 ## Bab 3: Kapiler, Difusi & Bulk Flow
 
 
 ### Scene `ch3` — visual: ChapterTitle (PPT hlm 30)
 
-- Bab tiga. Kapiler, difusi, dan bulk flow.
+- Bab tiga: kapiler, difusi, dan bulk flow. Saatnya ke stasiun tukar barang!
 
 ### Scene `capwall` — visual: CapillaryWall (PPT hlm 31)
 
-- Dinding kapiler hanya selapis sel endotel pipih.
-- Pori di antara sel dilewati air dan zat kecil larut air.
-- Kebocorannya tergantung rapatnya sambungan antarsel dan ada tidaknya fenestrasi.
-- Seperti saringan: ada yang rapat, ada yang berlubang besar.
+- Dinding kapiler cuma selapis sel endotel yang pipih. Tipis banget.
+- Di sela-sela selnya ada pori, tempat lewat air dan zat kecil yang larut air.
+- Seberapa bocor kapiler tergantung rapatnya sambungan antarsel dan ada nggaknya fenestrasi, alias lubang di selnya.
+- Mirip saringan: ada yang rapat, ada yang bolong-bolong.
 
 ### Scene `captypes` — visual: CapillaryTypes (PPT hlm 31)
 
-- Tiap organ punya endotel sesuai fungsinya.
-- Otak: paling rapat.
-- Otot dan paru: cukup bocor.
-- Ginjal dan usus: berfenestrasi, lebih bocor.
-- Hati: diskontinu, paling bocor.
-- **[Klarifikasi]** Kapiler otak membentuk sawar darah otak; kapiler hati membiarkan protein buatan hati masuk darah.
+- Tiap organ pilih model kapiler sesuai kebutuhannya.
+- Otak: paling rapat, super ketat.
+- Otot dan paru: lumayan bocor.
+- Ginjal dan usus: berfenestrasi, lebih bocor lagi.
+- Hati: diskontinu, paling bocor dari semuanya.
+- **[Klarifikasi]** Kenapa? Kapiler otak jadi sawar darah otak buat melindungi neuron, sedangkan kapiler hati yang bocor bikin protein buatan hati gampang masuk darah.
 
 ### Scene `capbed` — visual: CapillaryBed (PPT hlm 32)
 
-- Kapiler bercabang dari arteriol atau metarteriol, saluran pintas ke venula.
-- Di pintu masuknya ada sfingter prekapiler, cincin otot polos seperti katup kecil.
-- Tidak dipersarafi, tetapi peka perubahan metabolik lokal.
-- Jaringan aktif: sfingter relaksasi, banyak kapiler terisi.
-- Istirahat: sfingter kontraksi, darah melintas lewat metarteriol.
+- Kapiler bercabang dari arteriol atau metarteriol, semacam jalan pintas ke venula.
+- Di tiap pintu masuk kapiler ada sfingter prekapiler, cincin otot kecil yang jadi satpam pintu.
+- Satpam ini nggak dipersarafi, tapi peka banget sama perubahan metabolik di sekitarnya.
+- Waktu jaringan sibuk, sfingter buka, banyak kapiler terisi darah.
+- Waktu santai, sfingter nutup, darah lewat jalan pintas metarteriol.
 
 ### Scene `diffusion` — visual: Diffusion (PPT hlm 33)
 
-- Pertukaran zat terjadi lewat difusi, dari konsentrasi tinggi ke rendah.
-- Sel memakai O₂ dan glukosa, menghasilkan CO₂ dan sisa.
-- Maka O₂ dan glukosa masuk ke sel; CO₂ dan sisa masuk ke darah.
-- Gradien dijaga organ rekondisi: paru, saluran cerna, ginjal, dan kulit.
+- Tukar barang di kapiler terjadi lewat difusi: zat pindah dari yang konsentrasinya tinggi ke yang rendah.
+- Sel jaringan terus makan O₂ dan glukosa, lalu buang CO₂ dan sampah.
+- Jadinya O₂ dan glukosa ngalir ke sel, sementara CO₂ dan sampah ngalir ke darah.
+- Biar gradiennya awet, ada organ yang nyegerin darah: paru, saluran cerna, ginjal, dan kulit.
 
 ### Scene `fick` — visual: Fick (PPT hlm 34–35)
 
-- Menurut hukum Fick, kapiler mengoptimalkan tiga faktor difusi.
-- Jarak difusi minimal: hanya endotel dan membran basal.
-- Diameter sekitar 7 µm, sel darah merah lewat satu per satu, dan sel jaringan berjarak kurang dari 0,1 mm.
-- Luas permukaan maksimal: 10 sampai 40 miliar kapiler, sekitar 600 m².
-- Waktu cukup: total penampang sangat besar, aliran sangat lambat.
-- Seperti sungai yang melebar menjadi danau: arusnya melambat.
+- Menurut hukum Fick, kapiler itu didesain juara buat difusi. Ada tiga triknya.
+- Trik satu: jarak super dekat. Cuma endotel dan membran basal.
+- Diameternya sekitar 7 µm, jadi sel darah merah antre satu-satu, dan sel jaringan jaraknya kurang dari 0,1 mm.
+- Trik dua: permukaan super luas. Ada 10 sampai 40 miliar kapiler, totalnya sekitar 600 m².
+- Trik tiga: waktu yang cukup. Total penampangnya luas banget, jadi alirannya pelan.
+- Kayak sungai yang melebar jadi danau, arusnya melambat dan kapal sempat bongkar muat.
 
 ### Scene `bulk` — visual: BulkFlow (PPT hlm 36)
 
-- Bulk flow adalah perpindahan cairan melintasi dinding kapiler.
-- Tujuannya membagi cairan ekstraseluler antara plasma dan interstisial.
-- Tekanan keluar lebih besar: ultrafiltrasi.
-- Tekanan masuk lebih besar: reabsorpsi.
+- Selain difusi, ada bulk flow: cairan yang pindah rame-rame lewat dinding kapiler.
+- Tugasnya bagi-bagi cairan ekstraseluler antara plasma dan ruang interstisial.
+- Kalau dorongan keluar lebih kuat, namanya ultrafiltrasi.
+- Kalau tarikan masuk lebih kuat, namanya reabsorpsi.
 
 ### Scene `starling` — visual: Starling (PPT hlm 37)
 
-- Arahnya ditentukan empat gaya Starling.
-- Tekanan darah kapiler, Pc, ke luar: 37 mmHg di ujung arteriol, 17 di ujung venula.
-- Tekanan osmotik koloid plasma, πp, 25 mmHg ke dalam.
-- Tekanan hidrostatik interstisial, Pif, 1 mmHg ke dalam.
-- Tekanan osmotik koloid interstisial, πif, sekitar 0, ke luar.
-- Ujung arteriol: 37 dikurangi 26, sama dengan 11 mmHg ke luar.
-- Ujung venula: 17 dikurangi 26, sama dengan 9 mmHg ke dalam.
-- **[Klarifikasi]** Bila Pc naik, misalnya gagal jantung, atau protein plasma turun, terjadi edema.
+- Siapa yang menang? Ditentukan empat gaya Starling. Kayak tarik tambang!
+- Tim keluar: tekanan darah kapiler, Pc. 37 mmHg di ujung arteriol, turun jadi 17 di ujung venula.
+- Tim masuk: tekanan osmotik koloid plasma, πp, 25 mmHg, gara-gara protein plasma.
+- Tim masuk juga: tekanan hidrostatik interstisial, Pif, sekitar 1 mmHg.
+- Tim keluar: tekanan osmotik koloid interstisial, πif, sekitar 0.
+- Di ujung arteriol: 37 lawan 26. Menang tim keluar, 11 mmHg. Ultrafiltrasi!
+- Di ujung venula: 17 lawan 26. Menang tim masuk, 9 mmHg. Reabsorpsi!
+- **[Klarifikasi]** Kalau Pc naik, misalnya gagal jantung, atau protein plasma turun, cairan numpuk dan terjadilah edema.
 
 ### Scene `lymph` — visual: Lymphatic (PPT hlm 38)
 
-- Normalnya, filtrasi sedikit lebih banyak daripada reabsorpsi.
-- Sisa cairan ini dialirkan oleh sistem limfatik, agar tidak menjadi edema.
+- Normalnya, cairan yang keluar sedikit lebih banyak daripada yang masuk lagi.
+- Sisanya dijemput sistem limfatik, si tim drainase, biar nggak jadi edema.
 - Limfatik menjaga keseimbangan cairan, volume plasma, dan tekanan darah.
-- Juga jalur sel imun, menyerap lemak lewat lakteal, dan mengembalikan protein.
+- Bonus: jalur sel imun, nyerap lemak lewat lakteal, dan ngembaliin protein ke sirkulasi.
 
 ### Scene `recap3` — visual: Recap
 
-- Uji pemahaman bab tiga.
-- Beda difusi dan bulk flow? Difusi: zat terlarut, gradien konsentrasi. Bulk flow: cairan, gradien tekanan.
-- Mengapa reabsorpsi di ujung venula? Karena Pc turun di bawah πp.
+- Kuis kilat bab tiga!
+- Bedanya difusi sama bulk flow? Difusi mindahin zat terlarut ikut gradien konsentrasi, bulk flow mindahin cairan ikut gradien tekanan.
+- Kenapa di ujung venula cairan masuk lagi? Karena Pc udah turun di bawah πp.
 
 ## Bab 4: Venula, Vena & Aliran Balik Vena
 
 
 ### Scene `ch4` — visual: ChapterTitle (PPT hlm 39)
 
-- Bab empat. Venula, vena, dan aliran balik vena.
+- Bab empat: venula, vena, dan perjalanan pulang darah!
 
 ### Scene `veinres` — visual: VeinReservoir (PPT hlm 10, 40)
 
-- Venula menyatu menjadi vena.
-- Vena menyimpan lebih dari 60% volume darah: pembuluh kapasitans.
-- Otot polos dan elastinnya sedikit, kolagennya banyak.
-- Jadi vena mudah teregang dan menampung banyak darah tanpa kenaikan tekanan besar.
-- Seperti kantong plastik lentur, bukan balon karet.
+- Venula-venula kecil gabung jadi vena.
+- Vena itu gudang darah, nyimpan lebih dari 60% volume darah. Makanya disebut pembuluh kapasitans.
+- Otot polos dan elastinnya sedikit, tapi kolagennya banyak.
+- Jadi vena gampang melar dan bisa nampung banyak darah tanpa tekanannya naik banyak.
+- Kayak kantong plastik yang lentur, bukan balon karet.
 
 ### Scene `vrintro` — visual: VenousGradient (PPT hlm 41)
 
-- Aliran balik vena: darah yang kembali ke atrium per menit, harus sama dengan curah jantung.
-- Tekanan pendorongnya dari 17 mmHg ke 0 mmHg.
-- Kecil, tapi cukup karena resistensi vena rendah.
-- Lima faktor membantunya: simpatis, pompa otot, katup vena, pompa respirasi, dan isapan jantung.
+- Aliran balik vena itu jumlah darah yang pulang ke atrium tiap menit, dan harus sama dengan curah jantung.
+- Tekanan pendorongnya kecil: cuma dari 17 mmHg ke 0 mmHg.
+- Kecil sih, tapi cukup, karena resistensi vena rendah.
+- Untungnya ada lima asisten: simpatis, pompa otot, katup vena, pompa napas, dan isapan jantung.
 
 ### Scene `symp` — visual: SympVeno (PPT hlm 42)
 
-- Pertama, simpatis.
-- Venokonstriksi menaikkan tekanan vena dan mendorong darah simpanan ke atrium kanan.
-- Simpatis juga menaikkan denyut jantung lewat nodus SA dan kontraktilitas lewat Ca²⁺.
-- Saat olahraga, curah jantung naik tajam.
+- Asisten pertama: saraf simpatis.
+- Dia bikin vena menyempit, tekanannya naik, dan darah tabungan didorong ke atrium kanan.
+- Simpatis juga ngebut-in denyut jantung lewat nodus SA dan bikin kontraksi lebih kuat lewat Ca²⁺.
+- Pas olahraga, curah jantung langsung naik tajam.
 
 ### Scene `muscle` — visual: MusclePump (PPT hlm 43–44)
 
-- Kedua dan ketiga: pompa otot rangka dan katup vena satu arah.
-- Otot berkontraksi: vena tertekan, katup atas membuka, katup bawah menutup.
-- Otot relaksasi: katup atas menutup, katup bawah membuka, vena terisi dari bawah.
-- Seperti pintu satu arah, atau lift yang hanya naik.
-- Saat berdiri, katup memecah kolom darah menjadi segmen setiap 2 sampai 4 cm.
-- **[Klarifikasi]** Klinis: katup rusak menyebabkan varises.
+- Asisten kedua dan ketiga kerja duet: pompa otot rangka dan katup vena satu arah.
+- Otot kontraksi: vena kepencet, katup atas kebuka, katup bawah nutup.
+- Otot rileks: katup atas nutup, katup bawah kebuka, vena keisi lagi dari bawah.
+- Katup vena itu kayak pintu satu arah, atau lift yang cuma bisa naik.
+- Waktu berdiri, katup memotong kolom darah jadi segmen pendek, tiap 2 sampai 4 cm.
+- **[Klarifikasi]** Fakta klinis: kalau katupnya rusak, darah menggenang dan muncul varises.
 
 ### Scene `resp` — visual: RespPump (PPT hlm 45)
 
-- Keempat: pompa respirasi.
-- Saat inspirasi, tekanan intratoraks turun.
-- Diafragma turun, tekanan abdomen naik.
-- Darah terdorong dari vena abdomen ke dada dan atrium kanan.
-- Saat olahraga, ketiga pompa bekerja sinergis.
+- Asisten keempat: pompa napas.
+- Waktu kamu tarik napas, tekanan di rongga dada turun.
+- Diafragma turun, tekanan di perut naik.
+- Hasilnya darah terdorong dari vena perut ke dada, lalu ke atrium kanan.
+- Pas olahraga, ketiga pompa ini kerja bareng jadi satu tim.
 
 ### Scene `suction` — visual: CardiacSuction (PPT hlm 46)
 
-- Kelima: isapan jantung.
-- Saat sistol, katup AV tertarik ke bawah, atrium membesar, tekanan turun di bawah 0 mmHg.
-- Darah tertarik dari vena.
-- Saat diastol, ventrikel mengembang cepat dan menyedot darah.
+- Asisten kelima: jantung yang ikut nyedot.
+- Waktu sistol, katup AV ketarik ke bawah, atrium membesar, dan tekanannya turun di bawah 0 mmHg.
+- Darah pun kesedot dari vena.
+- Waktu diastol, ventrikel mengembang cepat dan nyedot darah masuk.
 
 ### Scene `vrsum` — visual: VenousSummary (PPT hlm 47, 65)
 
-- Rangkuman faktor aliran balik vena, ditambah volume darah.
-- Volume darah efektif menentukan berapa darah yang bisa kembali.
-- Jangka pendek: pergeseran cairan bulk flow.
-- Jangka panjang: garam dan air, lewat RAAS dan ADH.
+- Rangkum yuk: semua asisten tadi, ditambah volume darah.
+- Volume darah efektif nentuin seberapa banyak darah yang bisa pulang.
+- Jangka pendek diatur lewat geser-geser cairan bulk flow.
+- Jangka panjang lewat garam dan air, dikendalikan RAAS dan ADH.
 
 ### Scene `recap4` — visual: Recap
 
-- Uji pemahaman bab empat.
-- Otot betis berkontraksi: katup atas membuka.
-- Inspirasi: tekanan intratoraks turun.
+- Kuis kilat bab empat!
+- Otot betis kontraksi, katup mana yang kebuka? Katup atas!
+- Tarik napas, tekanan rongga dada gimana? Turun!
 
 ## Bab 5: Hemodinamika & Tekanan Darah
 
 
 ### Scene `ch5` — visual: ChapterTitle (PPT hlm 48, 54)
 
-- Bab lima. Hemodinamika dan tekanan darah.
+- Bab lima: hemodinamika dan tekanan darah. Ada sedikit rumus, tapi tenang, gampang kok!
 
 ### Scene `pipe` — visual: PipeFlow (PPT hlm 50, 53)
 
-- **[Klarifikasi]** Hemodinamika: ilmu aliran darah dan gaya yang mengaturnya.
-- Aliran ditentukan gradien tekanan dan resistensi.
-- Gradien tekanan adalah selisih tekanan awal dan akhir pembuluh.
-- Yang menentukan selisihnya, bukan nilai absolutnya.
-- Resistensi: hambatan akibat gesekan darah dan dinding.
-- F sama dengan ΔP dibagi R. Seperti selang: keran dibuka makin deras, selang dijepit makin kecil.
+- **[Klarifikasi]** Hemodinamika itu ilmu tentang aliran darah dan gaya-gaya yang ngatur.
+- Aliran ditentukan dua hal: gradien tekanan dan resistensi.
+- Gradien tekanan itu beda tekanan di awal dan di ujung pembuluh.
+- Yang penting bedanya, bukan angka mutlaknya.
+- Resistensi itu hambatan karena darah gesekan sama dinding.
+- Rumusnya F sama dengan ΔP dibagi R. Kayak selang air: keran dibuka makin deras, selangnya dijepit makin seret.
 
 ### Scene `poiseuille` — visual: Poiseuille (PPT hlm 49, 53)
 
-- Hukum Poiseuille merinci faktornya.
+- Hukum Poiseuille ngerinci semuanya.
 - Aliran sama dengan π kali ΔP kali r⁴, dibagi 8 kali η kali L.
 - ΔP: gradien tekanan.
-- r⁴: radius pangkat empat, penentu terkuat.
-- η viskositas, L panjang, π per 8 konstanta.
-- Resistensi sebanding viskositas dan panjang, berbanding terbalik r⁴.
+- r⁴: radius pangkat empat. Ini raja penentunya!
+- η itu kekentalan, L panjang pembuluh, dan π per 8 cuma konstanta.
+- Kesimpulannya, resistensi naik kalau darah kental atau pembuluh panjang, dan turun drastis kalau radius membesar.
 
 ### Scene `radius` — visual: RadiusDemo (PPT hlm 52)
 
-- Buktikan kekuatan radius.
-- Radius setengah: r⁴ menjadi 1/16.
-- Resistensi naik 16 kali, aliran 1/16.
-- Radius ganda: aliran naik 16 kali.
-- Radius kecil berarti lebih banyak darah menyentuh dinding.
-- Itulah sebabnya arteriol pengatur utama aliran.
+- Yuk buktiin seberapa sakti radius.
+- Radius dibikin setengah: r⁴ jadi 1/16.
+- Resistensi langsung naik 16 kali, alirannya tinggal 1/16. Gila kan?
+- Kebalikannya, radius dua kali lipat: aliran naik 16 kali.
+- Soalnya kalau radius kecil, makin banyak darah yang gesekan sama dinding.
+- Makanya arteriol, yang bisa ngubah radius, jadi pengatur utama aliran.
 
 ### Scene `visc` — visual: Viscosity (PPT hlm 51–52)
 
-- Viskositas adalah gesekan internal cairan; sirup lebih kental daripada air.
-- Viskositas darah terutama ditentukan jumlah sel darah merah.
-- Jarang berubah mendadak.
-- Tapi pada polisitemia dan dehidrasi, TPR, MAP, dan beban jantung naik.
-- Panjang pembuluh relatif konstan.
+- Viskositas itu kekentalan cairan. Sirup jelas lebih kental daripada air.
+- Kekentalan darah terutama ditentukan jumlah sel darah merah.
+- Biasanya nggak berubah mendadak.
+- Tapi pada polisitemia atau dehidrasi, TPR, MAP, dan beban jantung ikut naik.
+- Panjang pembuluh? Relatif tetap, jadi jarang jadi masalah.
 
 ### Scene `bpmeasure` — visual: BPMeasure (PPT hlm 54–56)
 
-- Tekanan darah: gaya darah pada dinding, tergantung volume darah dan komplians dinding.
-- Diukur langsung dengan kateter, atau tidak langsung dengan sfigmomanometer dan stetoskop.
-- **[Klarifikasi]** Manset dipompa, lalu dikempiskan perlahan.
-- Bunyi Korotkoff pertama: tekanan sistolik, 120 mmHg.
-- Bunyi menghilang: tekanan diastolik, 80 mmHg.
-- Ditulis 120/80 mmHg.
+- Tekanan darah itu dorongan darah ke dinding pembuluh, tergantung volume darah dan seberapa lentur dindingnya.
+- Bisa diukur langsung pakai kateter, atau cara praktis pakai sfigmomanometer dan stetoskop.
+- **[Klarifikasi]** Manset dipompa dulu, lalu kempesin pelan-pelan.
+- Dug! Bunyi Korotkoff pertama muncul: itu tekanan sistolik, 120 mmHg.
+- Bunyinya hilang: itu tekanan diastolik, 80 mmHg.
+- Ditulis 120/80 mmHg. Selesai!
 
 ### Scene `bpwave` — visual: BPWave (PPT hlm 56, 59)
 
-- Sistolik: tekanan maksimum saat ventrikel berkontraksi, sekitar 120 mmHg.
-- Diastolik: tekanan minimum saat jantung relaksasi, sekitar 80 mmHg.
+- Sistolik: tekanan puncak waktu ventrikel kontraksi, sekitar 120 mmHg.
+- Diastolik: tekanan terendah waktu jantung rileks, sekitar 80 mmHg.
 - Tekanan nadi: selisih keduanya, 40 mmHg.
-- Rendah bila kurang dari 30, tinggi bila lebih dari 60.
+- Di bawah 30 terhitung rendah, di atas 60 terhitung tinggi.
 
 ### Scene `factors` — visual: SbpDbpFactors (PPT hlm 57)
 
-- Faktor yang memengaruhinya.
-- Volume sekuncup dan kontraktilitas menaikkan sistolik; efek pada diastolik bervariasi.
-- TPR, denyut jantung, dan volume darah menaikkan keduanya.
-- Komplians turun: sistolik naik, diastolik berubah lebih sedikit.
-- Diastolik terutama dipengaruhi resistensi perifer, durasi diastol, dan komplians.
+- Apa saja yang bikin angka ini naik turun?
+- Volume sekuncup dan kontraktilitas naikin sistolik, efeknya ke diastolik bervariasi.
+- TPR, denyut jantung, dan volume darah naikin dua-duanya.
+- Kalau arteri makin kaku, sistolik naik, diastoliknya berubah lebih sedikit.
+- Diastolik paling dipengaruhi resistensi perifer, lama diastol, dan kelenturan arteri.
 
 ### Scene `map` — visual: MAPCalc (PPT hlm 61)
 
-- MAP, tekanan arteri rata-rata, adalah pendorong utama aliran ke jaringan.
-- MAP bukan nilai tengah, karena dua pertiga siklus adalah diastol.
-- MAP sama dengan diastolik ditambah sepertiga tekanan nadi.
-- Contoh: 80 ditambah 13, sama dengan 93 mmHg.
-- Atau sistolik ditambah dua kali diastolik, dibagi tiga: juga 93.
-- Bukan 100. Dan 93 adalah tekanan saat darah masuk arteriol.
+- Kenalan sama MAP, tekanan arteri rata-rata. Inilah tenaga utama yang ndorong darah ke jaringan.
+- Tapi MAP bukan nilai tengah biasa, lho. Soalnya dua pertiga waktu siklus jantung itu diastol.
+- Rumusnya: MAP sama dengan diastolik ditambah sepertiga tekanan nadi.
+- Coba hitung: 80 ditambah 13, hasilnya 93 mmHg.
+- Atau pakai rumus lain: sistolik ditambah dua kali diastolik, dibagi tiga. Sama, 93.
+- Jadi bukan 100 ya. Dan angka 93 ini sama dengan tekanan darah waktu masuk arteriol tadi.
 
 ### Scene `mappurpose` — visual: MAPPurpose (PPT hlm 61–62)
 
-- MAP-lah yang dipantau dan diatur tubuh.
-- Cukup tinggi untuk perfusi otak dan jantung.
-- Tidak terlalu tinggi agar jantung dan pembuluh tidak rusak.
-- Jika satu organ berdilatasi, organ lain sedikit berkonstriksi agar MAP tetap stabil.
+- Nah, MAP inilah yang terus dipantau tubuh.
+- Harus cukup tinggi biar otak dan jantung kebagian darah.
+- Tapi jangan kebablasan, biar jantung nggak kerja rodi dan pembuluh nggak rusak.
+- Kalau satu organ melebarkan pembuluhnya, organ lain sedikit menyempit, biar MAP tetap stabil.
 
 ### Scene `maptree` — visual: MAPTree (PPT hlm 63–65)
 
-- MAP sama dengan curah jantung, CO, kali TPR.
-- CO sama dengan denyut jantung kali volume sekuncup.
-- Denyut jantung: turun oleh parasimpatis, naik oleh simpatis dan epinefrin.
-- Volume sekuncup: naik oleh simpatis, dan oleh aliran balik vena sesuai hukum Frank Starling.
-- TPR ditentukan radius arteriol dan viskositas.
+- Rumus kuncinya: MAP sama dengan curah jantung, CO, kali TPR.
+- Curah jantung sama dengan denyut jantung kali volume sekuncup.
+- Denyut jantung direm parasimpatis, digas simpatis dan epinefrin.
+- Volume sekuncup naik karena simpatis, dan karena aliran balik vena sesuai hukum Frank Starling.
+- TPR ditentukan radius arteriol dan kekentalan darah.
 - Radius arteriol diatur kontrol lokal, simpatis, dan hormon seperti vasopresin dan angiotensin II.
 
 ### Scene `recap5` — visual: Recap
 
-- Uji pemahaman bab lima.
-- Radius setengah: resistensi naik 16 kali.
-- MAP dari 150/90: 90 ditambah 20, sama dengan 110 mmHg.
+- Kuis kilat bab lima!
+- Radius jadi setengah, resistensi naik berapa kali? 16 kali!
+- MAP dari 150/90? 90 ditambah 20, jadi 110 mmHg.
 
 ## Bab 6: Regulasi Aliran & Tekanan Darah
 
 
 ### Scene `ch6` — visual: ChapterTitle (PPT hlm 67)
 
-- Bab enam. Regulasi aliran darah dan tekanan darah.
+- Bab terakhir, bab enam: siapa yang ngatur aliran dan tekanan darah?
 
 ### Scene `levels` — visual: ThreeLevels (PPT hlm 68)
 
-- Ada tiga tingkat kontrol.
-- Lokal: intrinsik, seketika, sesuai kebutuhan metabolik.
-- Saraf: ekstrinsik lewat simpatis, dalam hitungan detik.
-- Hormonal: endokrin, menit hingga jam, untuk tekanan dan volume jangka panjang.
+- Ada tiga level pengatur.
+- Lokal: dari dalam jaringan sendiri, kerjanya instan.
+- Saraf: lewat simpatis, responnya dalam hitungan detik.
+- Hormon: lewat kelenjar endokrin, kerjanya menit sampai jam, buat jangka panjang.
 
 ### Scene `autoreg` — visual: Autoregulation (PPT hlm 69–70)
 
-- Autoregulasi: jaringan mengatur alirannya sendiri lewat mekanisme miogenik dan kimia.
-- Aliran tetap konstan walau MAP berubah.
-- Tekanan naik, aliran sempat melonjak, lalu kembali normal.
-- Seperti termostat yang kembali ke titik setel.
-- Otak paling baik, ginjal baik, otot rangka dan kulit kurang, menurut slide.
-- Saat bangun mendadak, arteriol otak berdilatasi sehingga kita tidak pingsan.
+- Autoregulasi: jaringan ngatur alirannya sendiri lewat mekanisme miogenik dan kimia.
+- Targetnya, aliran tetap konstan walaupun MAP naik turun.
+- Lihat grafiknya: tekanan naik, aliran sempat melonjak, lalu balik normal lagi.
+- Persis kayak termostat AC yang balik ke suhu yang disetel.
+- Menurut slide, otak paling jago, ginjal juga jago, sedangkan otot rangka dan kulit kurang.
+- Makanya waktu kamu bangun mendadak, arteriol otak melebar dan kamu nggak pingsan.
 
 ### Scene `edvp` — visual: EDVP (PPT hlm 71)
 
-- Parakrin vasoaktif dari endotel.
-- Saat O₂ turun atau shear stress naik, endotel melepas parakrin ke otot polos.
-- NO: vasodilator kuat.
-- Endotelin: vasokonstriktor poten.
-- PGH₂ vasokonstriktor, prostasiklin vasodilator.
-- Histamin, bradikinin, dan prostaglandin juga vasodilator.
-- **[Klarifikasi]** Klinis: nitrogliserin bekerja lewat NO.
+- Endotel ternyata bukan dinding pasif. Dia bisa ngirim pesan kimia ke otot polos.
+- Waktu O₂ turun atau shear stress naik, endotel ngeluarin parakrin.
+- NO: pelebar pembuluh yang kuat.
+- Endotelin: penyempit pembuluh yang poten.
+- PGH₂ menyempitkan, prostasiklin melebarkan.
+- Histamin, bradikinin, dan prostaglandin juga ikut melebarkan.
+- **[Klarifikasi]** Fakta klinis: obat nitrogliserin buat nyeri dada kerjanya lewat NO.
 
 ### Scene `hyperemia` — visual: ReactiveHyperemia (PPT hlm 72)
 
-- Hiperemia reaktif: lonjakan aliran sesudah oklusi.
-- Metabolit menumpuk saat oklusi, lalu aliran melonjak saat dilepas.
-- Dipicu kimia lokal, diperantarai parakrin endotel.
-- Angiogenesis: pembuluh baru akibat hipoksia kronis.
-- Contohnya pada atlet, dan pembuluh pintas koroner.
+- Hiperemia reaktif: aliran melonjak sementara setelah pembuluh sempat tersumbat.
+- Selama tersumbat, metabolit numpuk. Begitu dilepas, alirannya langsung banjir.
+- Pemicunya kimia lokal, perantaranya parakrin dari endotel.
+- Angiogenesis: tumbuh pembuluh baru karena kekurangan oksigen dalam waktu lama.
+- Contohnya kapiler atlet yang makin banyak, dan pembuluh pintas di sekitar arteri koroner yang tersumbat.
 
 ### Scene `cvc` — visual: CVCenter (PPT hlm 73)
 
-- Kontrol saraf berpusat di medula oblongata.
-- Tiga refleks: baroreflex, kemoreflex, dan iskemik medula.
-- Keluarannya simpatis dan parasimpatis ke jantung, arteriol, dan vena.
-- Ia juga mengatur tonus vaskular.
+- Kontrol saraf punya markas di medula oblongata.
+- Markas ini punya tiga refleks andalan: baroreflex, kemoreflex, dan refleks iskemik medula.
+- Perintahnya dikirim lewat simpatis dan parasimpatis ke jantung, arteriol, dan vena.
+- Dia juga yang ngatur tonus vaskular.
 
 ### Scene `baro` — visual: Baroreflex (PPT hlm 74–75)
 
-- Baroreflex: kontrol cepat MAP lewat umpan balik negatif.
-- Baroreseptor merasakan regangan dinding arteri.
-- Letaknya di sinus karotis dan arkus aorta.
-- Aferen: sinus karotis lewat CN IX, arkus aorta lewat CN X.
-- Medula mengintegrasikan sinyal.
-- Eferen: simpatis dan parasimpatis.
-- Ingat: sembilan sinus, sepuluh arkus.
+- Baroreflex: sistem kontrol kilat untuk MAP, pakai umpan balik negatif.
+- Sensornya baroreseptor, yang ngerasain seberapa melar dinding arteri.
+- Lokasinya di sinus karotis dan arkus aorta.
+- Kabel aferennya: dari sinus karotis lewat CN IX, dari arkus aorta lewat CN X.
+- Medula ngolah sinyalnya.
+- Perintah keluarnya lewat simpatis dan parasimpatis.
+- Trik hafalan: sembilan buat sinus, sepuluh buat arkus.
 
 ### Scene `baroloop` — visual: BaroLoop (PPT hlm 76–77)
 
-- Tekanan darah naik.
-- Impuls baroreseptor meningkat.
-- Parasimpatis naik, simpatis turun.
-- CO dan TPR turun, tekanan kembali normal.
-- Tekanan turun, misalnya berdiri mendadak.
-- Simpatis naik: jantung lebih cepat dan kuat, pembuluh berkonstriksi, tekanan pulih.
-- Termostat tubuh: sensor, pusat, efektor.
+- Skenario satu: tekanan darah naik.
+- Baroreseptor makin sering nembak sinyal.
+- Medula naikin parasimpatis, turunin simpatis.
+- CO dan TPR turun, tekanan balik normal.
+- Skenario dua: tekanan turun, misalnya waktu kamu berdiri mendadak.
+- Simpatis naik: jantung makin cepat dan kuat, pembuluh menyempit, tekanan pulih.
+- Inilah termostat tubuh: ada sensor, pusat kontrol, dan efektor.
 
 ### Scene `chemo` — visual: Chemoreflex (PPT hlm 78)
 
-- Kemoreflex merespons kimia darah.
-- Hipoksemia, hiperkapnia, dan asidosis.
-- Reseptornya di badan karotis dan aorta.
-- Peran utama: menambah laju napas.
-- Peran sekunder: vasokonstriksi luas, tekanan naik.
+- Kemoreflex ngecek kimia darah.
+- Alarmnya bunyi kalau hipoksemia, hiperkapnia, atau asidosis.
+- Sensornya ada di badan karotis dan badan aorta.
+- Tugas utamanya bikin napas lebih cepat.
+- Tugas sampingannya bikin pembuluh menyempit, jadi tekanan naik.
 
 ### Scene `ischemic` — visual: MedullaryIschemic (PPT hlm 79)
 
-- Refleks iskemik medula: respons darurat saat tekanan di bawah 60 mmHg.
-- Medula mendeteksi CO₂ naik dan pH turun.
-- Simpatis diaktifkan kuat, tekanan naik, perfusi otak pulih.
+- Refleks iskemik medula itu tombol darurat, nyala waktu tekanan di bawah 60 mmHg.
+- Medula sendiri yang ngerasain CO₂ naik dan pH turun.
+- Simpatis langsung digeber habis-habisan, tekanan naik, dan otak dapat darah lagi.
 
 ### Scene `raas` — visual: RAAS (PPT hlm 80–81)
 
-- Kontrol hormonal: jangka panjang.
-- **[Klarifikasi]** Ginjal melepas renin; angiotensinogen dari hati menjadi angiotensin I.
-- ACE di paru membentuk angiotensin II.
-- Angiotensin II: vasokonstriktor kuat dan pemicu haus.
-- Ia juga menaikkan aldosteron, yang menahan Na⁺ dan air.
+- Sekarang kontrol hormon, si pemain jangka panjang.
+- **[Klarifikasi]** Ginjal ngeluarin renin, yang ngubah angiotensinogen dari hati jadi angiotensin I.
+- Enzim ACE di paru ngubahnya jadi angiotensin II.
+- Angiotensin II itu penyempit pembuluh yang kuat, plus bikin kamu haus.
+- Dia juga naikin aldosteron, yang bikin ginjal nahan Na⁺ dan air.
 
 ### Scene `hormones` — visual: Hormones (PPT hlm 80–81)
 
-- ANP dan BNP berlawanan: membuang Na⁺ dan air, vasodilatasi, tekanan turun.
-- Juga menekan renin dan aldosteron.
-- ADH menahan air; kadar tinggi menyebabkan vasokonstriksi.
-- Epinefrin dan norepinefrin lewat reseptor alfa: vasokonstriksi.
-- **[Klarifikasi]** Penghambat ACE dan diuretik bekerja di sistem ini.
+- ANP dan BNP itu tim lawan: buang Na⁺ dan air, melebarkan pembuluh, tekanan turun.
+- Mereka juga nekan renin dan aldosteron.
+- ADH nahan air, dan kalau kadarnya tinggi bikin pembuluh menyempit.
+- Epinefrin dan norepinefrin lewat reseptor alfa juga bikin pembuluh menyempit.
+- **[Klarifikasi]** Fakta klinis: obat penghambat ACE dan diuretik kerjanya di sistem ini.
 
 ### Scene `integration` — visual: Integration (PPT hlm 63–65)
 
-- Integrasi: MAP sama dengan CO kali TPR.
-- CO bergantung pada denyut, volume sekuncup, dan aliran balik vena. TPR pada radius dan viskositas.
-- **[Klarifikasi]** Perdarahan: volume turun, CO turun, MAP turun.
-- **[Klarifikasi]** Detik: baroreflex menaikkan simpatis.
-- **[Klarifikasi]** Jam: angiotensin II, aldosteron, dan ADH memulihkan volume.
-- Autoregulasi menjaga otak dan jantung.
+- Saatnya gabungin semua. Ingat, MAP sama dengan CO kali TPR.
+- CO tergantung denyut, volume sekuncup, dan aliran balik vena. TPR tergantung radius dan kekentalan.
+- **[Klarifikasi]** Contoh kasus perdarahan: volume turun, CO turun, MAP ikut turun.
+- **[Klarifikasi]** Dalam hitungan detik, baroreflex naikin simpatis.
+- **[Klarifikasi]** Dalam hitungan jam, angiotensin II, aldosteron, dan ADH memulihkan volume.
+- Sementara itu autoregulasi tetap jagain otak dan jantung.
 
 ### Scene `recap6` — visual: Recap
 
-- Uji pemahaman bab enam.
-- Saraf dari sinus karotis? CN IX.
-- Hormon penurun tekanan? ANP dan BNP.
+- Kuis kilat bab enam!
+- Saraf dari sinus karotis? CN IX!
+- Hormon yang nurunin tekanan? ANP dan BNP!
 
 ## Bab 7: Ringkasan & Latihan Soal
 
 
 ### Scene `ch7` — visual: ChapterTitle
 
-- Bagian akhir. Ringkasan dan latihan soal.
+- Kita sampai di bagian akhir: ringkasan dan latihan soal!
 
 ### Scene `cmap` — visual: ConceptMap
 
-- Ini peta konsep fisiologi vaskular.
-- Jantung menciptakan tekanan, arteri menyimpannya, arteriol mengatur resistensi.
-- Kapiler bertukar zat, limfatik mengalirkan sisa cairan.
-- Vena menyimpan dan mengembalikan darah.
-- Semua diatur agar MAP stabil.
+- Ini peta konsepnya, semua dalam satu gambar.
+- Jantung bikin tekanan, arteri nyimpan tekanan, arteriol ngatur resistensi.
+- Kapiler tukar barang, limfatik nyedot sisa cairan.
+- Vena nyimpan darah dan bawa pulang ke jantung.
+- Dan semuanya diatur biar MAP tetap stabil.
 
 ### Scene `formulas` — visual: Formulas
 
-- Rumus penting.
+- Rumus wajib, catat ya!
 - Aliran sama dengan ΔP dibagi R.
-- Resistensi berbanding terbalik r⁴.
+- Resistensi berbanding terbalik sama r⁴.
 - Tekanan nadi dan MAP.
-- CO dan MAP.
+- Curah jantung dan MAP.
 - Dan tekanan filtrasi bersih Starling.
 
 ### Scene `table` — visual: VesselTable
 
-- Tabel perbandingan lima jenis pembuluh darah.
-- Arteri: elastis, reservoir tekanan.
-- Arteriol: resistensi.
-- Kapiler: pertukaran.
-- Venula mengumpulkan, vena menyimpan.
+- Tabel lima pembuluh buat contekan.
+- Arteri: elastis, tabungan tekanan.
+- Arteriol: keran resistensi.
+- Kapiler: stasiun tukar barang.
+- Venula ngumpulin, vena nyimpan.
 
 ### Scene `regsum` — visual: RegSummary
 
-- Ringkasan regulasi tekanan darah.
-- Seketika: kontrol lokal.
+- Ringkasan pengatur tekanan darah.
+- Instan: kontrol lokal.
 - Detik: refleks saraf.
-- Menit hingga jam: hormon.
+- Menit sampai jam: hormon.
 
 ### Scene `quizintro` — visual: QuizIntro
 
-- Sepuluh soal klinis. Jawab sebelum waktu habis.
+- Saatnya sepuluh soal klinis! Jawab sebelum waktunya habis ya.
 
 ### Scene `quiz1` — visual: Quiz
 
 - Soal 1. Pria 70 tahun dengan aterosklerosis bertekanan darah 170/80 mmHg. Apa penyebab utama tekanan nadinya yang lebar?
-- Jawabannya B. Arteri yang kaku kehilangan fungsi reservoir tekanan, sehingga sistolik naik. Tekanan nadinya 90 mmHg, tergolong tinggi.
+- Yap, jawabannya B! Arteri yang kaku kehilangan fungsi reservoir tekanan, sehingga sistolik naik. Tekanan nadinya 90 mmHg, tergolong tinggi.
 
 ### Scene `quiz2` — visual: Quiz
 
 - Soal 2. Tekanan darah seorang pasien 120/80 mmHg. Berapa MAP-nya?
-- Jawabannya B. MAP sama dengan 80 ditambah sepertiga dari 40, yaitu sekitar 93 mmHg, bukan nilai tengah 100.
+- Yap, jawabannya B! MAP sama dengan 80 ditambah sepertiga dari 40, yaitu sekitar 93 mmHg, bukan nilai tengah 100.
 
 ### Scene `quiz3` — visual: Quiz
 
 - Soal 3. Vasokonstriksi membuat radius arteriol menjadi setengahnya, dengan gradien tekanan tetap. Aliran menjadi berapa?
-- Jawabannya D. Menurut hukum Poiseuille, resistensi naik enam belas kali, sehingga aliran turun menjadi seperenam belas.
+- Yap, jawabannya D! Menurut hukum Poiseuille, resistensi naik enam belas kali, sehingga aliran turun menjadi seperenam belas.
 
 ### Scene `quiz4` — visual: Quiz
 
 - Soal 4. Pasien sirosis dengan albumin rendah mengalami edema. Gaya Starling apa yang paling berubah?
-- Jawabannya B. Albumin rendah menurunkan tekanan osmotik koloid plasma, reabsorpsi berkurang, dan cairan menumpuk di interstisial.
+- Yap, jawabannya B! Albumin rendah menurunkan tekanan osmotik koloid plasma, reabsorpsi berkurang, dan cairan menumpuk di interstisial.
 
 ### Scene `quiz5` — visual: Quiz
 
 - Soal 5. Seseorang berdiri mendadak dan merasa pusing sesaat. Respons baroreflex yang tepat adalah?
-- Jawabannya C. Tekanan turun, impuls baroreseptor berkurang, sehingga simpatis naik dan parasimpatis turun untuk memulihkan tekanan.
+- Yap, jawabannya C! Tekanan turun, impuls baroreseptor berkurang, sehingga simpatis naik dan parasimpatis turun untuk memulihkan tekanan.
 
 ### Scene `quiz6` — visual: Quiz
 
 - Soal 6. Serat aferen dari baroreseptor sinus karotis berjalan melalui saraf apa?
-- Jawabannya B. Sinus karotis lewat saraf sembilan, glosofaringeus. Arkus aorta lewat saraf sepuluh, vagus.
+- Yap, jawabannya B! Sinus karotis lewat saraf sembilan, glosofaringeus. Arkus aorta lewat saraf sepuluh, vagus.
 
 ### Scene `quiz7` — visual: Quiz
 
 - Soal 7. Pasien syok hemoragik dengan tekanan darah di bawah 60 mmHg. Refleks darurat apa yang aktif kuat?
-- Jawabannya A. Perfusi otak yang rendah dideteksi medula, lalu simpatis diaktifkan kuat untuk menaikkan tekanan darah.
+- Yap, jawabannya A! Perfusi otak yang rendah dideteksi medula, lalu simpatis diaktifkan kuat untuk menaikkan tekanan darah.
 
 ### Scene `quiz8` — visual: Quiz
 
 - Soal 8. Pada gagal jantung, atrium teregang dan melepaskan hormon yang menimbulkan natriuresis dan vasodilatasi. Hormon apa?
-- Jawabannya C. ANP meningkatkan ekskresi natrium dan air serta vasodilatasi, sehingga tekanan darah turun.
+- Yap, jawabannya C! ANP meningkatkan ekskresi natrium dan air serta vasodilatasi, sehingga tekanan darah turun.
 
 ### Scene `quiz9` — visual: Quiz
 
 - Soal 9. Pasien tirah baring lama mengalami penurunan aliran balik vena dari tungkai. Mekanisme apa yang paling berkurang?
-- Jawabannya A. Tanpa kontraksi otot tungkai, vena tidak tertekan, sehingga darah lebih mudah menggenang.
+- Yap, jawabannya A! Tanpa kontraksi otot tungkai, vena tidak tertekan, sehingga darah lebih mudah menggenang.
 
 ### Scene `quiz10` — visual: Quiz
 
 - Soal 10. Kapiler organ mana yang paling bocor, bersifat diskontinu?
-- Jawabannya D. Kapiler hati diskontinu dan paling permeabel; kapiler otak paling rapat.
+- Yap, jawabannya D! Kapiler hati diskontinu dan paling permeabel; kapiler otak paling rapat.
 
 ### Scene `outro` — visual: Outro
 
-- Selamat, kamu sudah menyelesaikan seluruh materi fisiologi vaskular.
-- Tekanan mendorong aliran, radius mengatur resistensi, dan tubuh menjaga MAP.
-- Semoga sukses belajar!
+- Yeay, selamat! Kamu udah tamat fisiologi vaskular.
+- Ingat tiga kunci: tekanan mendorong aliran, radius ngatur resistensi, dan tubuh selalu jagain MAP.
+- Semangat belajarnya, sampai jumpa!

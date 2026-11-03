@@ -23,7 +23,7 @@ os.makedirs(CACHE, exist_ok=True)
 
 VOICE = os.environ.get('VOICE', 'piper')          # 'piper' (neural, default) or an espeak voice e.g. 'mb-id1'
 SPEED = int(os.environ.get('SPEED', '158'))          # espeak fallback only
-LENGTH_SCALE = float(os.environ.get('LENGTH_SCALE', '0.82'))  # piper: <1 = faster speech
+LENGTH_SCALE = float(os.environ.get('LENGTH_SCALE', '0.78'))  # piper: <1 = faster speech
 PIPER_MODEL = os.path.join(ROOT, 'build/models/vits-piper-id_ID-news_tts-medium/id_ID-news_tts-medium.onnx')
 _piper = None
 def piper_voice():

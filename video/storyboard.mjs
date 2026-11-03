@@ -3,6 +3,7 @@
 // lines: narasi per kalimat. Baris berupa {s, x:1} = klarifikasi tambahan (BUKAN dari PPT).
 // notes: [{at, text}] = kartu peringatan bila slide ambigu / kurang tepat.
 
+import { fun } from './narration_fun.mjs';
 const X = (s) => ({ s, x: 1 });
 
 export const chapters = [
@@ -16,7 +17,7 @@ export const chapters = [
   { n: 7, title: 'Ringkasan & Latihan Soal' },
 ];
 
-export const scenes = [
+const baseScenes = [
   // ───────────────────────── PENDAHULUAN ─────────────────────────
   { id: 'intro', ch: 0, v: 'Cover', src: '1', lines: [
     'Selamat datang. Kita akan belajar fisiologi vaskular: bagaimana pembuluh darah bekerja.',
@@ -561,7 +562,7 @@ export const scenes = [
     id: `quiz${i + 1}`, ch: 7, v: 'Quiz', p: { n: i + 1, q, opts, ans, why }, lines: [
       `Soal ${i + 1}. ${q}`,
       { s: '', silent: 5 },
-      `Jawabannya ${'ABCD'[ans]}. ${why}`,
+      `Yap, jawabannya ${'ABCD'[ans]}! ${why}`,
     ],
   })),
   { id: 'outro', ch: 7, v: 'Outro', lines: [
@@ -570,3 +571,11 @@ export const scenes = [
     'Semoga sukses belajar!',
   ]},
 ];
+
+// Terapkan gaya narasi santai (narration_fun.mjs); jumlah kalimat harus sama agar animasi tetap sinkron.
+export const scenes = baseScenes.map((sc) => {
+  const f = fun[sc.id];
+  if (!f) return sc;
+  if (f.length !== sc.lines.length) throw new Error(`narration_fun: ${sc.id} punya ${f.length} kalimat, harus ${sc.lines.length}`);
+  return { ...sc, lines: sc.lines.map((ln, i) => (typeof ln === 'string' ? f[i] : { ...ln, s: f[i] })) };
+});
