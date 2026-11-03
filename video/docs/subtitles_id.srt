@@ -1,0 +1,1456 @@
+1
+00:00:00,500 --> 00:00:05,858
+Selamat datang. Kita akan belajar fisiologi vaskular: bagaimana pembuluh darah bekerja.
+
+2
+00:00:06,178 --> 00:00:09,940
+Materinya mengikuti slide kuliah dokter Dian Aristia Rachmayanti.
+
+3
+00:00:10,260 --> 00:00:12,312
+Tujuannya memahami, bukan menghafal.
+
+4
+00:00:13,512 --> 00:00:15,085
+Ada lima tujuan belajar.
+
+5
+00:00:15,405 --> 00:00:17,313
+Struktur dan fungsi pembuluh darah.
+
+6
+00:00:17,633 --> 00:00:21,138
+Hemodinamika: hubungan tekanan, aliran, dan resistensi.
+
+7
+00:00:21,458 --> 00:00:25,893
+Komponen tekanan darah: sistolik, diastolik, tekanan nadi, dan MAP.
+
+8
+00:00:26,213 --> 00:00:27,970
+Mekanisme aliran balik vena.
+
+9
+00:00:28,290 --> 00:00:32,737
+Serta kontrol lokal, saraf, dan hormon yang mengatur aliran dan tekanan darah.
+
+10
+00:00:33,937 --> 00:00:38,554
+Sistem sirkulasi menjaga homeostasis dengan menjadi sistem transportasi tubuh.
+
+11
+00:00:38,874 --> 00:00:44,537
+Komponennya tiga: jantung sebagai pompa, pembuluh sebagai jalur, dan darah sebagai media angkut.
+
+12
+00:00:44,857 --> 00:00:49,499
+Ketiganya mengantar oksigen, nutrien, dan hormon, serta mengangkut sisa metabolisme.
+
+13
+00:00:49,819 --> 00:00:54,737
+Seperti kota: jantung stasiun pompa, pembuluh jalan raya, darah truk pengantar.
+
+14
+00:00:56,637 --> 00:00:59,679
+Bab satu. Sistem sirkulasi dan pembuluh darah.
+
+15
+00:01:01,579 --> 00:01:06,987
+Darah beredar dalam sistem tertutup, atau closed loop: terus berputar tanpa keluar dari pembuluh.
+
+16
+00:01:07,307 --> 00:01:11,896
+Ada dua sirkuit: pulmonal menuju paru, dan sistemik menuju seluruh tubuh.
+
+17
+00:01:12,216 --> 00:01:17,667
+Pembuluhnya membentuk pohon vaskular: arteri, arteriol, kapiler, venula, dan vena.
+
+18
+00:01:18,867 --> 00:01:24,145
+Sirkulasi pulmonal: darah miskin oksigen, warna biru, keluar dari ventrikel kanan.
+
+19
+00:01:24,465 --> 00:01:27,435
+Lewat trunkus dan arteri pulmonalis menuju paru.
+
+20
+00:01:27,755 --> 00:01:31,320
+Di kapiler paru, O₂ masuk ke darah dan CO₂ keluar.
+
+21
+00:01:31,640 --> 00:01:36,398
+Darah kaya oksigen, warna merah, kembali lewat vena pulmonalis ke atrium kiri.
+
+22
+00:01:36,718 --> 00:01:41,453
+Ingat: arteri adalah pembuluh yang menjauhi jantung, bukan pembuluh yang kaya oksigen.
+
+23
+00:01:42,653 --> 00:01:46,950
+Sirkulasi sistemik: ventrikel kiri memompa darah kaya oksigen ke aorta.
+
+24
+00:01:47,270 --> 00:01:50,138
+Lalu ke arteri, arteriol, dan kapiler jaringan.
+
+25
+00:01:50,458 --> 00:01:54,535
+Di kapiler terjadi pertukaran gas, nutrien, dan sisa metabolisme.
+
+26
+00:01:54,855 --> 00:01:59,821
+Darah miskin oksigen kembali lewat venula, vena, dan vena kava ke atrium kanan.
+
+27
+00:02:01,021 --> 00:02:03,106
+Digabung, inilah lingkaran lengkapnya.
+
+28
+00:02:03,426 --> 00:02:09,246
+Ventrikel kiri, aorta, arteri, arteriol, kapiler, venula, vena, vena kava, atrium kanan.
+
+29
+00:02:09,566 --> 00:02:14,865
+Lalu ventrikel kanan, arteri pulmonalis, kapiler paru, vena pulmonalis, atrium kiri,
+
+30
+00:02:14,865 --> 00:02:16,758
+dan kembali ke ventrikel kiri.
+
+31
+00:02:17,078 --> 00:02:19,483
+Trik mengingat: kiri ke tubuh, kanan ke paru.
+
+32
+00:02:20,683 --> 00:02:23,946
+Ada lima jenis pembuluh, masing-masing dengan tugas khusus.
+
+33
+00:02:24,266 --> 00:02:27,027
+Arteri: pembuluh penghantar dan penampung tekanan.
+
+34
+00:02:27,027 --> 00:02:31,389
+Dindingnya tebal dan elastis, membawa darah bertekanan tinggi menjauhi jantung.
+
+35
+00:02:31,709 --> 00:02:33,584
+Arteriol: pembuluh resistensi.
+
+36
+00:02:33,584 --> 00:02:39,272
+Otot polosnya menyempit atau melebar, mengatur resistensi perifer total dan tekanan arteri.
+
+37
+00:02:39,592 --> 00:02:43,070
+Kapiler: pembuluh pertukaran, dindingnya hanya selapis endotel.
+
+38
+00:02:43,390 --> 00:02:46,770
+Venula: pembuluh pengumpul, memulai perjalanan pulang.
+
+39
+00:02:47,090 --> 00:02:48,872
+Vena: pembuluh kapasitans.
+
+40
+00:02:48,872 --> 00:02:55,112
+Lumen besar, dinding tipis, berkatup, menyimpan lebih dari 60% volume darah saat istirahat.
+
+41
+00:02:56,312 --> 00:02:57,883
+Uji pemahaman bab satu.
+
+42
+00:02:58,203 --> 00:03:02,209
+Pembuluh apa yang membawa darah miskin oksigen namun disebut arteri?
+
+43
+00:03:02,209 --> 00:03:05,861
+Jawabannya arteri pulmonalis, karena arahnya menjauhi jantung.
+
+44
+00:03:06,181 --> 00:03:09,545
+Pembuluh mana yang menjadi reservoir darah? Jawabannya vena.
+
+45
+00:03:11,445 --> 00:03:13,549
+Bab dua. Arteri dan arteriol.
+
+46
+00:03:15,449 --> 00:03:19,859
+Dinding arteri dirancang tahan tekanan tinggi, elastis, dan beresistensi rendah.
+
+47
+00:03:20,179 --> 00:03:22,486
+Radius besar menurunkan resistensi.
+
+48
+00:03:22,806 --> 00:03:25,104
+Endotel yang licin meminimalkan gesekan.
+
+49
+00:03:25,424 --> 00:03:29,230
+Otot polos tebal menjaga lumen tetap terbuka di bawah tekanan tinggi.
+
+50
+00:03:29,550 --> 00:03:34,725
+Kolagen memberi kekuatan tarik agar tidak robek; elastin membuatnya bisa meregang lalu kembali.
+
+51
+00:03:35,045 --> 00:03:37,396
+Hasilnya aliran mulus, tanpa turbulensi.
+
+52
+00:03:38,596 --> 00:03:41,208
+Fungsi pertama arteri: jalur transit cepat.
+
+53
+00:03:41,528 --> 00:03:47,505
+Saat sistol, darah dipompa kuat; karena resistensi rendah, tekanan diteruskan efisien ke semua organ.
+
+54
+00:03:47,825 --> 00:03:54,002
+Oksigen terdistribusi cepat, tekanan terjaga, dan arteriol di hilir bisa mengatur aliran tiap organ.
+
+55
+00:03:54,322 --> 00:03:58,672
+Arteri tidak ikut pertukaran zat; dindingnya terlalu tebal. Ibarat jalan tol:
+
+56
+00:03:58,672 --> 00:04:00,536
+untuk melaju, bukan bongkar muat.
+
+57
+00:04:01,736 --> 00:04:04,025
+Fungsi kedua: reservoir tekanan.
+
+58
+00:04:04,345 --> 00:04:09,114
+Jantung memompa berdenyut, tapi aliran ke jaringan tetap kontinu. Bagaimana bisa?
+
+59
+00:04:09,434 --> 00:04:13,537
+Saat sistol, darah yang masuk arteri lebih banyak daripada yang keluar,
+
+60
+00:04:13,537 --> 00:04:15,618
+karena arteriol beresistensi tinggi.
+
+61
+00:04:15,938 --> 00:04:19,716
+Dinding arteri meregang dan menyimpan energi, seperti balon yang ditiup.
+
+62
+00:04:20,036 --> 00:04:26,030
+Saat diastol, jantung mengisi kembali. Dinding arteri melenting, atau recoil, mendorong darah ke depan.
+
+63
+00:04:26,350 --> 00:04:29,621
+Recoil elastis inilah pendorong aliran selama diastol.
+
+64
+00:04:29,941 --> 00:04:34,516
+Klinis: arteri kaku pada lansia membuat sistolik naik dan tekanan nadi melebar.
+
+65
+00:04:35,716 --> 00:04:38,927
+Arteriol punya otot polos tebal yang tersusun melingkar.
+
+66
+00:04:39,247 --> 00:04:43,556
+Ia dipersarafi simpatis, peka zat kimia lokal, dan dipengaruhi hormon.
+
+67
+00:04:43,876 --> 00:04:47,974
+Kontraksinya menyebabkan vasokonstriksi; relaksasinya vasodilatasi.
+
+68
+00:04:48,294 --> 00:04:51,424
+Jaringan elastisnya sedikit, jadi recoil-nya minimal.
+
+69
+00:04:52,624 --> 00:04:56,672
+Arteriol adalah pembuluh resistensi utama karena radiusnya kecil.
+
+70
+00:04:56,992 --> 00:05:02,080
+Kapiler lebih kecil, tapi jumlahnya sangat banyak, sehingga total resistensinya lebih rendah.
+
+71
+00:05:02,400 --> 00:05:10,123
+Darah masuk arteriol sekitar 93 mmHg, dan keluar sekitar 37 mmHg.
+
+72
+00:05:10,443 --> 00:05:15,232
+Turun 56 mmHg: penurunan terbesar di pohon vaskular.
+
+73
+00:05:15,552 --> 00:05:18,871
+Ini menciptakan gradien yang mendorong darah ke kapiler dan vena.
+
+74
+00:05:19,191 --> 00:05:24,901
+Ayunan sistolik dan diastolik juga diredam, sehingga aliran kapiler stabil untuk pertukaran.
+
+75
+00:05:26,101 --> 00:05:30,631
+Otot polos arteriol selalu sedikit berkontraksi: inilah tonus vaskular.
+
+76
+00:05:30,951 --> 00:05:34,565
+Dari titik awal ini, arteriol bisa menyempit atau melebar.
+
+77
+00:05:34,885 --> 00:05:40,830
+Penyebab intrinsik: aktivitas miogenik. Kanal Ca²⁺ bergerbang voltase sedikit terbuka saat istirahat.
+
+78
+00:05:41,150 --> 00:05:45,211
+Penyebab ekstrinsik: saraf simpatis yang terus melepaskan norepinefrin.
+
+79
+00:05:45,531 --> 00:05:49,152
+Seperti keran setengah terbuka, siap diputar ke dua arah.
+
+80
+00:05:50,352 --> 00:05:52,902
+Vasokonstriksi: otot polos berkontraksi.
+
+81
+00:05:53,222 --> 00:05:56,304
+Radius turun, resistensi naik, aliran darah turun.
+
+82
+00:05:56,624 --> 00:05:59,298
+Vasodilatasi: otot polos relaksasi.
+
+83
+00:05:59,618 --> 00:06:02,724
+Radius naik, resistensi turun, aliran darah naik.
+
+84
+00:06:03,924 --> 00:06:07,852
+Arteriol tiap organ mengatur radiusnya sendiri, untuk dua tujuan.
+
+85
+00:06:08,172 --> 00:06:12,836
+Membagi curah jantung sesuai kebutuhan; saat olahraga otot mendapat lebih banyak.
+
+86
+00:06:13,156 --> 00:06:17,672
+Dan mengatur tekanan arteri lewat resistensi perifer total, atau TPR.
+
+87
+00:06:17,992 --> 00:06:21,079
+Mekanismenya: kontrol lokal dan kontrol ekstrinsik.
+
+88
+00:06:22,279 --> 00:06:24,979
+Kontrol lokal berasal dari organ itu sendiri.
+
+89
+00:06:25,299 --> 00:06:31,352
+Kimia: perubahan metabolik. O₂ turun; CO₂, H⁺, K⁺, dan adenosin naik.
+
+90
+00:06:31,672 --> 00:06:37,782
+Endotel melepas parakrin, arteriol melebar. Saat naik tangga, otot yang bekerja mendapat aliran lebih.
+
+91
+00:06:38,102 --> 00:06:43,967
+Histamin dari sel mast: vasodilatasi dan kapiler bocor. Itu sebabnya gigitan nyamuk merah dan bengkak.
+
+92
+00:06:44,287 --> 00:06:50,650
+Fisik: regangan. Dinding teregang, kanal kation mekanis terbuka, Ca²⁺ masuk, arteriol berkonstriksi.
+
+93
+00:06:50,650 --> 00:06:51,986
+Ini respons miogenik.
+
+94
+00:06:52,306 --> 00:06:57,784
+Shear stress, gesekan aliran pada endotel, memicu nitrat oksida dan vasodilatasi.
+
+95
+00:06:58,104 --> 00:07:00,631
+Suhu: panas melebarkan, dingin menyempitkan.
+
+96
+00:07:01,831 --> 00:07:06,051
+Kontrol ekstrinsik datang dari luar organ: saraf simpatis dan hormon.
+
+97
+00:07:06,371 --> 00:07:10,031
+Fokusnya MAP dan TPR, bukan kebutuhan satu organ.
+
+98
+00:07:10,351 --> 00:07:13,607
+Tujuannya menjaga perfusi organ vital, terutama otak.
+
+99
+00:07:14,807 --> 00:07:16,335
+Uji pemahaman bab dua.
+
+100
+00:07:16,655 --> 00:07:22,135
+Mengapa aliran tetap kontinu walau jantung berdenyut? Karena recoil elastis arteri saat diastol.
+
+101
+00:07:22,455 --> 00:07:24,986
+Penurunan tekanan terbesar? Di arteriol.
+
+102
+00:07:26,886 --> 00:07:29,493
+Bab tiga. Kapiler, difusi, dan bulk flow.
+
+103
+00:07:31,393 --> 00:07:34,106
+Dinding kapiler hanya selapis sel endotel pipih.
+
+104
+00:07:34,426 --> 00:07:37,861
+Pori di antara sel dilewati air dan zat kecil larut air.
+
+105
+00:07:38,181 --> 00:07:42,674
+Kebocorannya tergantung rapatnya sambungan antarsel dan ada tidaknya fenestrasi.
+
+106
+00:07:42,994 --> 00:07:46,193
+Seperti saringan: ada yang rapat, ada yang berlubang besar.
+
+107
+00:07:47,393 --> 00:07:49,908
+Tiap organ punya endotel sesuai fungsinya.
+
+108
+00:07:50,228 --> 00:07:51,290
+Otak: paling rapat.
+
+109
+00:07:51,610 --> 00:07:53,590
+Otot dan paru: cukup bocor.
+
+110
+00:07:53,910 --> 00:07:56,782
+Ginjal dan usus: berfenestrasi, lebih bocor.
+
+111
+00:07:57,102 --> 00:07:59,279
+Hati: diskontinu, paling bocor.
+
+112
+00:07:59,599 --> 00:08:04,767
+Kapiler otak membentuk sawar darah otak; kapiler hati membiarkan protein buatan hati masuk darah.
+
+113
+00:08:05,967 --> 00:08:10,842
+Kapiler bercabang dari arteriol atau metarteriol, saluran pintas ke venula.
+
+114
+00:08:11,162 --> 00:08:16,053
+Di pintu masuknya ada sfingter prekapiler, cincin otot polos seperti katup kecil.
+
+115
+00:08:16,373 --> 00:08:19,992
+Tidak dipersarafi, tetapi peka perubahan metabolik lokal.
+
+116
+00:08:20,312 --> 00:08:23,638
+Jaringan aktif: sfingter relaksasi, banyak kapiler terisi.
+
+117
+00:08:23,958 --> 00:08:27,813
+Istirahat: sfingter kontraksi, darah melintas lewat metarteriol.
+
+118
+00:08:29,013 --> 00:08:33,093
+Pertukaran zat terjadi lewat difusi, dari konsentrasi tinggi ke rendah.
+
+119
+00:08:33,413 --> 00:08:37,409
+Sel memakai O₂ dan glukosa, menghasilkan CO₂ dan sisa.
+
+120
+00:08:37,729 --> 00:08:41,833
+Maka O₂ dan glukosa masuk ke sel; CO₂ dan sisa masuk ke darah.
+
+121
+00:08:42,153 --> 00:08:46,565
+Gradien dijaga organ rekondisi: paru, saluran cerna, ginjal, dan kulit.
+
+122
+00:08:47,765 --> 00:08:51,445
+Menurut hukum Fick, kapiler mengoptimalkan tiga faktor difusi.
+
+123
+00:08:51,765 --> 00:08:55,040
+Jarak difusi minimal: hanya endotel dan membran basal.
+
+124
+00:08:55,360 --> 00:09:03,516
+Diameter sekitar 7 µm, sel darah merah lewat satu per satu, dan sel jaringan berjarak kurang dari 0,1 mm.
+
+125
+00:09:03,836 --> 00:09:09,977
+Luas permukaan maksimal: 10 sampai 40 miliar kapiler, sekitar 600 m².
+
+126
+00:09:10,297 --> 00:09:13,708
+Waktu cukup: total penampang sangat besar, aliran sangat lambat.
+
+127
+00:09:14,028 --> 00:09:17,112
+Seperti sungai yang melebar menjadi danau: arusnya melambat.
+
+128
+00:09:18,312 --> 00:09:21,747
+Bulk flow adalah perpindahan cairan melintasi dinding kapiler.
+
+129
+00:09:22,067 --> 00:09:26,121
+Tujuannya membagi cairan ekstraseluler antara plasma dan interstisial.
+
+130
+00:09:26,441 --> 00:09:28,950
+Tekanan keluar lebih besar: ultrafiltrasi.
+
+131
+00:09:29,270 --> 00:09:31,799
+Tekanan masuk lebih besar: reabsorpsi.
+
+132
+00:09:32,999 --> 00:09:35,071
+Arahnya ditentukan empat gaya Starling.
+
+133
+00:09:35,391 --> 00:09:42,963
+Tekanan darah kapiler, Pc, ke luar: 37 mmHg di ujung arteriol, 17 di ujung venula.
+
+134
+00:09:43,283 --> 00:09:48,661
+Tekanan osmotik koloid plasma, πp, 25 mmHg ke dalam.
+
+135
+00:09:48,981 --> 00:09:53,888
+Tekanan hidrostatik interstisial, Pif, 1 mmHg ke dalam.
+
+136
+00:09:54,208 --> 00:09:58,581
+Tekanan osmotik koloid interstisial, πif, sekitar 0, ke luar.
+
+137
+00:09:58,901 --> 00:10:05,333
+Ujung arteriol: 37 dikurangi 26, sama dengan 11 mmHg ke luar.
+
+138
+00:10:05,653 --> 00:10:11,763
+Ujung venula: 17 dikurangi 26, sama dengan 9 mmHg ke dalam.
+
+139
+00:10:12,083 --> 00:10:17,050
+Bila Pc naik, misalnya gagal jantung, atau protein plasma turun, terjadi edema.
+
+140
+00:10:18,250 --> 00:10:22,101
+Normalnya, filtrasi sedikit lebih banyak daripada reabsorpsi.
+
+141
+00:10:22,421 --> 00:10:26,637
+Sisa cairan ini dialirkan oleh sistem limfatik, agar tidak menjadi edema.
+
+142
+00:10:26,957 --> 00:10:31,364
+Limfatik menjaga keseimbangan cairan, volume plasma, dan tekanan darah.
+
+143
+00:10:31,684 --> 00:10:36,344
+Juga jalur sel imun, menyerap lemak lewat lakteal, dan mengembalikan protein.
+
+144
+00:10:37,544 --> 00:10:39,151
+Uji pemahaman bab tiga.
+
+145
+00:10:39,471 --> 00:10:46,044
+Beda difusi dan bulk flow? Difusi: zat terlarut, gradien konsentrasi. Bulk flow: cairan, gradien tekanan.
+
+146
+00:10:46,364 --> 00:10:50,587
+Mengapa reabsorpsi di ujung venula? Karena Pc turun di bawah πp.
+
+147
+00:10:52,487 --> 00:10:55,682
+Bab empat. Venula, vena, dan aliran balik vena.
+
+148
+00:10:57,582 --> 00:10:59,258
+Venula menyatu menjadi vena.
+
+149
+00:10:59,578 --> 00:11:03,870
+Vena menyimpan lebih dari 60% volume darah: pembuluh kapasitans.
+
+150
+00:11:04,190 --> 00:11:07,220
+Otot polos dan elastinnya sedikit, kolagennya banyak.
+
+151
+00:11:07,540 --> 00:11:11,925
+Jadi vena mudah teregang dan menampung banyak darah tanpa kenaikan tekanan besar.
+
+152
+00:11:12,245 --> 00:11:15,179
+Seperti kantong plastik lentur, bukan balon karet.
+
+153
+00:11:16,379 --> 00:11:21,575
+Aliran balik vena: darah yang kembali ke atrium per menit, harus sama dengan curah jantung.
+
+154
+00:11:21,895 --> 00:11:26,796
+Tekanan pendorongnya dari 17 mmHg ke 0 mmHg.
+
+155
+00:11:27,116 --> 00:11:29,958
+Kecil, tapi cukup karena resistensi vena rendah.
+
+156
+00:11:30,278 --> 00:11:36,173
+Lima faktor membantunya: simpatis, pompa otot, katup vena, pompa respirasi, dan isapan jantung.
+
+157
+00:11:37,373 --> 00:11:38,607
+Pertama, simpatis.
+
+158
+00:11:38,927 --> 00:11:43,527
+Venokonstriksi menaikkan tekanan vena dan mendorong darah simpanan ke atrium kanan.
+
+159
+00:11:43,847 --> 00:11:49,065
+Simpatis juga menaikkan denyut jantung lewat nodus SA dan kontraktilitas lewat Ca²⁺.
+
+160
+00:11:49,385 --> 00:11:51,855
+Saat olahraga, curah jantung naik tajam.
+
+161
+00:11:53,055 --> 00:11:56,593
+Kedua dan ketiga: pompa otot rangka dan katup vena satu arah.
+
+162
+00:11:56,913 --> 00:12:00,925
+Otot berkontraksi: vena tertekan, katup atas membuka, katup bawah menutup.
+
+163
+00:12:01,245 --> 00:12:06,141
+Otot relaksasi: katup atas menutup, katup bawah membuka, vena terisi dari bawah.
+
+164
+00:12:06,461 --> 00:12:09,239
+Seperti pintu satu arah, atau lift yang hanya naik.
+
+165
+00:12:09,559 --> 00:12:14,630
+Saat berdiri, katup memecah kolom darah menjadi segmen setiap 2 sampai 4 cm.
+
+166
+00:12:14,950 --> 00:12:17,357
+Klinis: katup rusak menyebabkan varises.
+
+167
+00:12:18,557 --> 00:12:20,146
+Keempat: pompa respirasi.
+
+168
+00:12:20,466 --> 00:12:23,168
+Saat inspirasi, tekanan intratoraks turun.
+
+169
+00:12:23,488 --> 00:12:25,954
+Diafragma turun, tekanan abdomen naik.
+
+170
+00:12:26,274 --> 00:12:29,748
+Darah terdorong dari vena abdomen ke dada dan atrium kanan.
+
+171
+00:12:30,068 --> 00:12:33,003
+Saat olahraga, ketiga pompa bekerja sinergis.
+
+172
+00:12:34,203 --> 00:12:35,770
+Kelima: isapan jantung.
+
+173
+00:12:36,090 --> 00:12:42,426
+Saat sistol, katup AV tertarik ke bawah, atrium membesar, tekanan turun di bawah 0 mmHg.
+
+174
+00:12:42,746 --> 00:12:44,218
+Darah tertarik dari vena.
+
+175
+00:12:44,538 --> 00:12:48,024
+Saat diastol, ventrikel mengembang cepat dan menyedot darah.
+
+176
+00:12:49,224 --> 00:12:52,616
+Rangkuman faktor aliran balik vena, ditambah volume darah.
+
+177
+00:12:52,936 --> 00:12:56,400
+Volume darah efektif menentukan berapa darah yang bisa kembali.
+
+178
+00:12:56,720 --> 00:12:59,160
+Jangka pendek: pergeseran cairan bulk flow.
+
+179
+00:12:59,480 --> 00:13:03,627
+Jangka panjang: garam dan air, lewat RAAS dan ADH.
+
+180
+00:13:04,827 --> 00:13:06,252
+Uji pemahaman bab empat.
+
+181
+00:13:06,572 --> 00:13:09,313
+Otot betis berkontraksi: katup atas membuka.
+
+182
+00:13:09,633 --> 00:13:12,006
+Inspirasi: tekanan intratoraks turun.
+
+183
+00:13:13,906 --> 00:13:16,793
+Bab lima. Hemodinamika dan tekanan darah.
+
+184
+00:13:18,693 --> 00:13:22,118
+Hemodinamika: ilmu aliran darah dan gaya yang mengaturnya.
+
+185
+00:13:22,438 --> 00:13:25,320
+Aliran ditentukan gradien tekanan dan resistensi.
+
+186
+00:13:25,640 --> 00:13:29,041
+Gradien tekanan adalah selisih tekanan awal dan akhir pembuluh.
+
+187
+00:13:29,361 --> 00:13:32,336
+Yang menentukan selisihnya, bukan nilai absolutnya.
+
+188
+00:13:32,656 --> 00:13:35,735
+Resistensi: hambatan akibat gesekan darah dan dinding.
+
+189
+00:13:36,055 --> 00:13:41,978
+F sama dengan ΔP dibagi R. Seperti selang: keran dibuka makin deras, selang dijepit makin kecil.
+
+190
+00:13:43,178 --> 00:13:45,068
+Hukum Poiseuille merinci faktornya.
+
+191
+00:13:45,388 --> 00:13:50,671
+Aliran sama dengan π kali ΔP kali r⁴, dibagi 8 kali η kali L.
+
+192
+00:13:50,991 --> 00:13:52,664
+ΔP: gradien tekanan.
+
+193
+00:13:52,984 --> 00:13:56,044
+r⁴: radius pangkat empat, penentu terkuat.
+
+194
+00:13:56,364 --> 00:13:59,871
+η viskositas, L panjang, π per 8 konstanta.
+
+195
+00:14:00,191 --> 00:14:05,088
+Resistensi sebanding viskositas dan panjang, berbanding terbalik r⁴.
+
+196
+00:14:06,288 --> 00:14:07,933
+Buktikan kekuatan radius.
+
+197
+00:14:08,253 --> 00:14:11,365
+Radius setengah: r⁴ menjadi 1/16.
+
+198
+00:14:11,685 --> 00:14:14,991
+Resistensi naik 16 kali, aliran 1/16.
+
+199
+00:14:15,311 --> 00:14:17,916
+Radius ganda: aliran naik 16 kali.
+
+200
+00:14:18,236 --> 00:14:21,375
+Radius kecil berarti lebih banyak darah menyentuh dinding.
+
+201
+00:14:21,695 --> 00:14:24,558
+Itulah sebabnya arteriol pengatur utama aliran.
+
+202
+00:14:25,758 --> 00:14:30,245
+Viskositas adalah gesekan internal cairan; sirup lebih kental daripada air.
+
+203
+00:14:30,565 --> 00:14:34,025
+Viskositas darah terutama ditentukan jumlah sel darah merah.
+
+204
+00:14:34,345 --> 00:14:35,703
+Jarang berubah mendadak.
+
+205
+00:14:36,023 --> 00:14:40,767
+Tapi pada polisitemia dan dehidrasi, TPR, MAP, dan beban jantung naik.
+
+206
+00:14:41,087 --> 00:14:42,952
+Panjang pembuluh relatif konstan.
+
+207
+00:14:44,152 --> 00:14:48,758
+Tekanan darah: gaya darah pada dinding, tergantung volume darah dan komplians dinding.
+
+208
+00:14:49,078 --> 00:14:53,656
+Diukur langsung dengan kateter, atau tidak langsung dengan sfigmomanometer dan stetoskop.
+
+209
+00:14:53,976 --> 00:14:56,741
+Manset dipompa, lalu dikempiskan perlahan.
+
+210
+00:14:57,061 --> 00:15:01,978
+Bunyi Korotkoff pertama: tekanan sistolik, 120 mmHg.
+
+211
+00:15:02,298 --> 00:15:06,525
+Bunyi menghilang: tekanan diastolik, 80 mmHg.
+
+212
+00:15:06,845 --> 00:15:10,621
+Ditulis 120/80 mmHg.
+
+213
+00:15:11,821 --> 00:15:17,947
+Sistolik: tekanan maksimum saat ventrikel berkontraksi, sekitar 120 mmHg.
+
+214
+00:15:18,267 --> 00:15:23,982
+Diastolik: tekanan minimum saat jantung relaksasi, sekitar 80 mmHg.
+
+215
+00:15:24,302 --> 00:15:28,195
+Tekanan nadi: selisih keduanya, 40 mmHg.
+
+216
+00:15:28,515 --> 00:15:32,294
+Rendah bila kurang dari 30, tinggi bila lebih dari 60.
+
+217
+00:15:33,494 --> 00:15:34,883
+Faktor yang memengaruhinya.
+
+218
+00:15:35,203 --> 00:15:40,595
+Volume sekuncup dan kontraktilitas menaikkan sistolik; efek pada diastolik bervariasi.
+
+219
+00:15:40,915 --> 00:15:44,768
+TPR, denyut jantung, dan volume darah menaikkan keduanya.
+
+220
+00:15:45,088 --> 00:15:49,020
+Komplians turun: sistolik naik, diastolik berubah lebih sedikit.
+
+221
+00:15:49,340 --> 00:15:54,690
+Diastolik terutama dipengaruhi resistensi perifer, durasi diastol, dan komplians.
+
+222
+00:15:55,890 --> 00:16:00,393
+MAP, tekanan arteri rata-rata, adalah pendorong utama aliran ke jaringan.
+
+223
+00:16:00,713 --> 00:16:04,639
+MAP bukan nilai tengah, karena dua pertiga siklus adalah diastol.
+
+224
+00:16:04,959 --> 00:16:08,573
+MAP sama dengan diastolik ditambah sepertiga tekanan nadi.
+
+225
+00:16:08,893 --> 00:16:14,498
+Contoh: 80 ditambah 13, sama dengan 93 mmHg.
+
+226
+00:16:14,818 --> 00:16:19,999
+Atau sistolik ditambah dua kali diastolik, dibagi tiga: juga 93.
+
+227
+00:16:20,319 --> 00:16:25,157
+Bukan 100. Dan 93 adalah tekanan saat darah masuk arteriol.
+
+228
+00:16:26,357 --> 00:16:28,738
+MAP-lah yang dipantau dan diatur tubuh.
+
+229
+00:16:29,058 --> 00:16:31,664
+Cukup tinggi untuk perfusi otak dan jantung.
+
+230
+00:16:31,984 --> 00:16:35,043
+Tidak terlalu tinggi agar jantung dan pembuluh tidak rusak.
+
+231
+00:16:35,363 --> 00:16:40,555
+Jika satu organ berdilatasi, organ lain sedikit berkonstriksi agar MAP tetap stabil.
+
+232
+00:16:41,755 --> 00:16:45,340
+MAP sama dengan curah jantung, CO, kali TPR.
+
+233
+00:16:45,660 --> 00:16:48,512
+CO sama dengan denyut jantung kali volume sekuncup.
+
+234
+00:16:48,832 --> 00:16:53,697
+Denyut jantung: turun oleh parasimpatis, naik oleh simpatis dan epinefrin.
+
+235
+00:16:54,017 --> 00:16:59,772
+Volume sekuncup: naik oleh simpatis, dan oleh aliran balik vena sesuai hukum Frank Starling.
+
+236
+00:17:00,092 --> 00:17:03,387
+TPR ditentukan radius arteriol dan viskositas.
+
+237
+00:17:03,707 --> 00:17:10,164
+Radius arteriol diatur kontrol lokal, simpatis, dan hormon seperti vasopresin dan angiotensin II.
+
+238
+00:17:11,364 --> 00:17:12,824
+Uji pemahaman bab lima.
+
+239
+00:17:13,144 --> 00:17:15,947
+Radius setengah: resistensi naik 16 kali.
+
+240
+00:17:16,267 --> 00:17:24,340
+MAP dari 150/90: 90 ditambah 20, sama dengan 110 mmHg.
+
+241
+00:17:26,240 --> 00:17:29,390
+Bab enam. Regulasi aliran darah dan tekanan darah.
+
+242
+00:17:31,290 --> 00:17:32,705
+Ada tiga tingkat kontrol.
+
+243
+00:17:33,025 --> 00:17:36,323
+Lokal: intrinsik, seketika, sesuai kebutuhan metabolik.
+
+244
+00:17:36,643 --> 00:17:39,873
+Saraf: ekstrinsik lewat simpatis, dalam hitungan detik.
+
+245
+00:17:40,193 --> 00:17:44,821
+Hormonal: endokrin, menit hingga jam, untuk tekanan dan volume jangka panjang.
+
+246
+00:17:46,021 --> 00:17:51,282
+Autoregulasi: jaringan mengatur alirannya sendiri lewat mekanisme miogenik dan kimia.
+
+247
+00:17:51,602 --> 00:17:54,149
+Aliran tetap konstan walau MAP berubah.
+
+248
+00:17:54,469 --> 00:17:58,027
+Tekanan naik, aliran sempat melonjak, lalu kembali normal.
+
+249
+00:17:58,347 --> 00:18:00,833
+Seperti termostat yang kembali ke titik setel.
+
+250
+00:18:01,153 --> 00:18:05,385
+Otak paling baik, ginjal baik, otot rangka dan kulit kurang, menurut slide.
+
+251
+00:18:05,705 --> 00:18:10,049
+Saat bangun mendadak, arteriol otak berdilatasi sehingga kita tidak pingsan.
+
+252
+00:18:11,249 --> 00:18:13,290
+Parakrin vasoaktif dari endotel.
+
+253
+00:18:13,610 --> 00:18:18,537
+Saat O₂ turun atau shear stress naik, endotel melepas parakrin ke otot polos.
+
+254
+00:18:18,857 --> 00:18:20,577
+NO: vasodilator kuat.
+
+255
+00:18:20,897 --> 00:18:23,181
+Endotelin: vasokonstriktor poten.
+
+256
+00:18:23,501 --> 00:18:27,159
+PGH₂ vasokonstriktor, prostasiklin vasodilator.
+
+257
+00:18:27,479 --> 00:18:31,263
+Histamin, bradikinin, dan prostaglandin juga vasodilator.
+
+258
+00:18:31,583 --> 00:18:34,217
+Klinis: nitrogliserin bekerja lewat NO.
+
+259
+00:18:35,417 --> 00:18:38,665
+Hiperemia reaktif: lonjakan aliran sesudah oklusi.
+
+260
+00:18:38,985 --> 00:18:43,186
+Metabolit menumpuk saat oklusi, lalu aliran melonjak saat dilepas.
+
+261
+00:18:43,506 --> 00:18:46,667
+Dipicu kimia lokal, diperantarai parakrin endotel.
+
+262
+00:18:46,987 --> 00:18:50,141
+Angiogenesis: pembuluh baru akibat hipoksia kronis.
+
+263
+00:18:50,461 --> 00:18:53,393
+Contohnya pada atlet, dan pembuluh pintas koroner.
+
+264
+00:18:54,593 --> 00:18:57,220
+Kontrol saraf berpusat di medula oblongata.
+
+265
+00:18:57,540 --> 00:19:01,318
+Tiga refleks: baroreflex, kemoreflex, dan iskemik medula.
+
+266
+00:19:01,638 --> 00:19:05,941
+Keluarannya simpatis dan parasimpatis ke jantung, arteriol, dan vena.
+
+267
+00:19:06,261 --> 00:19:08,204
+Ia juga mengatur tonus vaskular.
+
+268
+00:19:09,404 --> 00:19:13,089
+Baroreflex: kontrol cepat MAP lewat umpan balik negatif.
+
+269
+00:19:13,409 --> 00:19:16,056
+Baroreseptor merasakan regangan dinding arteri.
+
+270
+00:19:16,376 --> 00:19:18,915
+Letaknya di sinus karotis dan arkus aorta.
+
+271
+00:19:19,235 --> 00:19:25,067
+Aferen: sinus karotis lewat CN IX, arkus aorta lewat CN X.
+
+272
+00:19:25,387 --> 00:19:27,157
+Medula mengintegrasikan sinyal.
+
+273
+00:19:27,477 --> 00:19:29,734
+Eferen: simpatis dan parasimpatis.
+
+274
+00:19:30,054 --> 00:19:32,336
+Ingat: sembilan sinus, sepuluh arkus.
+
+275
+00:19:33,536 --> 00:19:34,611
+Tekanan darah naik.
+
+276
+00:19:34,931 --> 00:19:36,651
+Impuls baroreseptor meningkat.
+
+277
+00:19:36,971 --> 00:19:39,082
+Parasimpatis naik, simpatis turun.
+
+278
+00:19:39,402 --> 00:19:42,383
+CO dan TPR turun, tekanan kembali normal.
+
+279
+00:19:42,703 --> 00:19:44,972
+Tekanan turun, misalnya berdiri mendadak.
+
+280
+00:19:45,292 --> 00:19:50,131
+Simpatis naik: jantung lebih cepat dan kuat, pembuluh berkonstriksi, tekanan pulih.
+
+281
+00:19:50,451 --> 00:19:52,832
+Termostat tubuh: sensor, pusat, efektor.
+
+282
+00:19:54,032 --> 00:19:55,952
+Kemoreflex merespons kimia darah.
+
+283
+00:19:56,272 --> 00:19:59,019
+Hipoksemia, hiperkapnia, dan asidosis.
+
+284
+00:19:59,339 --> 00:20:01,712
+Reseptornya di badan karotis dan aorta.
+
+285
+00:20:02,032 --> 00:20:04,418
+Peran utama: menambah laju napas.
+
+286
+00:20:04,738 --> 00:20:07,729
+Peran sekunder: vasokonstriksi luas, tekanan naik.
+
+287
+00:20:08,929 --> 00:20:14,780
+Refleks iskemik medula: respons darurat saat tekanan di bawah 60 mmHg.
+
+288
+00:20:15,100 --> 00:20:18,039
+Medula mendeteksi CO₂ naik dan pH turun.
+
+289
+00:20:18,359 --> 00:20:22,039
+Simpatis diaktifkan kuat, tekanan naik, perfusi otak pulih.
+
+290
+00:20:23,239 --> 00:20:25,156
+Kontrol hormonal: jangka panjang.
+
+291
+00:20:25,476 --> 00:20:29,891
+Ginjal melepas renin; angiotensinogen dari hati menjadi angiotensin I.
+
+292
+00:20:30,211 --> 00:20:32,788
+ACE di paru membentuk angiotensin II.
+
+293
+00:20:33,108 --> 00:20:36,672
+Angiotensin II: vasokonstriktor kuat dan pemicu haus.
+
+294
+00:20:36,992 --> 00:20:40,373
+Ia juga menaikkan aldosteron, yang menahan Na⁺ dan air.
+
+295
+00:20:41,573 --> 00:20:46,997
+ANP dan BNP berlawanan: membuang Na⁺ dan air, vasodilatasi, tekanan turun.
+
+296
+00:20:47,317 --> 00:20:49,421
+Juga menekan renin dan aldosteron.
+
+297
+00:20:49,741 --> 00:20:53,223
+ADH menahan air; kadar tinggi menyebabkan vasokonstriksi.
+
+298
+00:20:53,543 --> 00:20:57,622
+Epinefrin dan norepinefrin lewat reseptor alfa: vasokonstriksi.
+
+299
+00:20:57,942 --> 00:21:00,984
+Penghambat ACE dan diuretik bekerja di sistem ini.
+
+300
+00:21:02,184 --> 00:21:05,174
+Integrasi: MAP sama dengan CO kali TPR.
+
+301
+00:21:05,494 --> 00:21:11,730
+CO bergantung pada denyut, volume sekuncup, dan aliran balik vena. TPR pada radius dan viskositas.
+
+302
+00:21:12,050 --> 00:21:15,212
+Perdarahan: volume turun, CO turun, MAP turun.
+
+303
+00:21:15,532 --> 00:21:17,864
+Detik: baroreflex menaikkan simpatis.
+
+304
+00:21:18,184 --> 00:21:22,732
+Jam: angiotensin II, aldosteron, dan ADH memulihkan volume.
+
+305
+00:21:23,052 --> 00:21:25,555
+Autoregulasi menjaga otak dan jantung.
+
+306
+00:21:26,755 --> 00:21:28,176
+Uji pemahaman bab enam.
+
+307
+00:21:28,496 --> 00:21:31,662
+Saraf dari sinus karotis? CN IX.
+
+308
+00:21:31,982 --> 00:21:34,897
+Hormon penurun tekanan? ANP dan BNP.
+
+309
+00:21:36,797 --> 00:21:39,473
+Bagian akhir. Ringkasan dan latihan soal.
+
+310
+00:21:41,373 --> 00:21:43,593
+Ini peta konsep fisiologi vaskular.
+
+311
+00:21:43,913 --> 00:21:48,396
+Jantung menciptakan tekanan, arteri menyimpannya, arteriol mengatur resistensi.
+
+312
+00:21:48,716 --> 00:21:51,990
+Kapiler bertukar zat, limfatik mengalirkan sisa cairan.
+
+313
+00:21:52,310 --> 00:21:54,438
+Vena menyimpan dan mengembalikan darah.
+
+314
+00:21:54,758 --> 00:21:56,916
+Semua diatur agar MAP stabil.
+
+315
+00:21:58,116 --> 00:21:59,062
+Rumus penting.
+
+316
+00:21:59,382 --> 00:22:01,589
+Aliran sama dengan ΔP dibagi R.
+
+317
+00:22:01,909 --> 00:22:04,667
+Resistensi berbanding terbalik r⁴.
+
+318
+00:22:04,987 --> 00:22:06,417
+Tekanan nadi dan MAP.
+
+319
+00:22:06,737 --> 00:22:08,002
+CO dan MAP.
+
+320
+00:22:08,322 --> 00:22:10,357
+Dan tekanan filtrasi bersih Starling.
+
+321
+00:22:11,557 --> 00:22:13,944
+Tabel perbandingan lima jenis pembuluh darah.
+
+322
+00:22:14,264 --> 00:22:16,669
+Arteri: elastis, reservoir tekanan.
+
+323
+00:22:16,989 --> 00:22:18,596
+Arteriol: resistensi.
+
+324
+00:22:18,916 --> 00:22:20,271
+Kapiler: pertukaran.
+
+325
+00:22:20,591 --> 00:22:22,764
+Venula mengumpulkan, vena menyimpan.
+
+326
+00:22:23,964 --> 00:22:25,905
+Ringkasan regulasi tekanan darah.
+
+327
+00:22:26,225 --> 00:22:27,680
+Seketika: kontrol lokal.
+
+328
+00:22:28,000 --> 00:22:29,283
+Detik: refleks saraf.
+
+329
+00:22:29,603 --> 00:22:31,186
+Menit hingga jam: hormon.
+
+330
+00:22:32,386 --> 00:22:35,557
+Sepuluh soal klinis. Jawab sebelum waktu habis.
+
+331
+00:22:36,757 --> 00:22:43,333
+Soal 1. Pria 70 tahun dengan aterosklerosis bertekanan darah 170/80 mmHg.
+
+332
+00:22:43,333 --> 00:22:47,477
+Apa penyebab utama tekanan nadinya yang lebar?
+
+333
+00:22:52,797 --> 00:22:59,320
+Jawabannya B. Arteri yang kaku kehilangan fungsi reservoir tekanan, sehingga sistolik naik.
+
+334
+00:22:59,320 --> 00:23:02,330
+Tekanan nadinya 90 mmHg, tergolong tinggi.
+
+335
+00:23:03,530 --> 00:23:10,493
+Soal 2. Tekanan darah seorang pasien 120/80 mmHg. Berapa MAP-nya?
+
+336
+00:23:15,813 --> 00:23:16,948
+Jawabannya B.
+
+337
+00:23:16,948 --> 00:23:25,073
+MAP sama dengan 80 ditambah sepertiga dari 40, yaitu sekitar 93 mmHg, bukan nilai tengah 100.
+
+338
+00:23:26,273 --> 00:23:32,470
+Soal 3. Vasokonstriksi membuat radius arteriol menjadi setengahnya, dengan gradien tekanan tetap.
+
+339
+00:23:32,470 --> 00:23:33,875
+Aliran menjadi berapa?
+
+340
+00:23:39,195 --> 00:23:39,973
+Jawabannya D.
+
+341
+00:23:39,973 --> 00:23:46,257
+Menurut hukum Poiseuille, resistensi naik enam belas kali, sehingga aliran turun menjadi seperenam belas.
+
+342
+00:23:47,457 --> 00:23:53,455
+Soal 4. Pasien sirosis dengan albumin rendah mengalami edema. Gaya Starling apa yang paling berubah?
+
+343
+00:23:58,775 --> 00:24:04,399
+Jawabannya B. Albumin rendah menurunkan tekanan osmotik koloid plasma, reabsorpsi berkurang,
+
+344
+00:24:04,399 --> 00:24:06,600
+dan cairan menumpuk di interstisial.
+
+345
+00:24:07,800 --> 00:24:13,904
+Soal 5. Seseorang berdiri mendadak dan merasa pusing sesaat. Respons baroreflex yang tepat adalah?
+
+346
+00:24:19,224 --> 00:24:22,915
+Jawabannya C. Tekanan turun, impuls baroreseptor berkurang,
+
+347
+00:24:22,915 --> 00:24:27,356
+sehingga simpatis naik dan parasimpatis turun untuk memulihkan tekanan.
+
+348
+00:24:28,556 --> 00:24:33,909
+Soal 6. Serat aferen dari baroreseptor sinus karotis berjalan melalui saraf apa?
+
+349
+00:24:39,229 --> 00:24:46,186
+Jawabannya B. Sinus karotis lewat saraf sembilan, glosofaringeus. Arkus aorta lewat saraf sepuluh, vagus.
+
+350
+00:24:47,386 --> 00:24:55,257
+Soal 7. Pasien syok hemoragik dengan tekanan darah di bawah 60 mmHg. Refleks darurat apa yang aktif kuat?
+
+351
+00:25:00,577 --> 00:25:01,372
+Jawabannya A.
+
+352
+00:25:01,372 --> 00:25:07,670
+Perfusi otak yang rendah dideteksi medula, lalu simpatis diaktifkan kuat untuk menaikkan tekanan darah.
+
+353
+00:25:08,870 --> 00:25:09,332
+Soal 8.
+
+354
+00:25:09,332 --> 00:25:16,196
+Pada gagal jantung, atrium teregang dan melepaskan hormon yang menimbulkan natriuresis dan vasodilatasi.
+
+355
+00:25:16,196 --> 00:25:16,922
+Hormon apa?
+
+356
+00:25:22,242 --> 00:25:28,762
+Jawabannya C. ANP meningkatkan ekskresi natrium dan air serta vasodilatasi, sehingga tekanan darah turun.
+
+357
+00:25:29,962 --> 00:25:35,023
+Soal 9. Pasien tirah baring lama mengalami penurunan aliran balik vena dari tungkai.
+
+358
+00:25:35,023 --> 00:25:37,192
+Mekanisme apa yang paling berkurang?
+
+359
+00:25:42,512 --> 00:25:48,528
+Jawabannya A. Tanpa kontraksi otot tungkai, vena tidak tertekan, sehingga darah lebih mudah menggenang.
+
+360
+00:25:49,728 --> 00:25:54,176
+Soal 10. Kapiler organ mana yang paling bocor, bersifat diskontinu?
+
+361
+00:25:59,496 --> 00:26:04,670
+Jawabannya D. Kapiler hati diskontinu dan paling permeabel; kapiler otak paling rapat.
+
+362
+00:26:05,870 --> 00:26:09,766
+Selamat, kamu sudah menyelesaikan seluruh materi fisiologi vaskular.
+
+363
+00:26:10,086 --> 00:26:15,066
+Tekanan mendorong aliran, radius mengatur resistensi, dan tubuh menjaga MAP.
+
+364
+00:26:15,386 --> 00:26:16,749
+Semoga sukses belajar!
+
