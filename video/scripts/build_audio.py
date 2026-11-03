@@ -10,6 +10,8 @@ Outputs:
 """
 import json, os, re, subprocess, wave, hashlib, sys
 import numpy as np
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+PROSODY = os.environ.get('PROSODY', '1') == '1'   # lebih ekspresif (lihat scripts/prosody.py)
 
 FPS = 30
 GAP = 0.32
@@ -77,14 +79,22 @@ def tts_text(s):
 
 # ---------- synthesis ----------
 def synth(text):
-    key = hashlib.md5(f'{VOICE}|{SPEED}|{LENGTH_SCALE}|{text}'.encode()).hexdigest()
+    key = hashlib.md5(f'{VOICE}|{SPEED}|{LENGTH_SCALE}|{PROSODY}v1|{text}'.encode()).hexdigest()
     path = f'{CACHE}/{key}.wav'
     if not os.path.exists(path):
         raw = path + '.raw.wav'
         if VOICE == 'piper':
             from piper.config import SynthesisConfig
             with wave.open(raw, 'wb') as w:
-                piper_voice().synthesize_wav(text, w, syn_config=SynthesisConfig(length_scale=LENGTH_SCALE))
+                ls = LENGTH_SCALE * (0.94 if text.strip().endswith('!') else 1.0)
+                piper_voice().synthesize_wav(text, w, syn_config=SynthesisConfig(length_scale=ls, noise_scale=0.8, noise_w_scale=1.0))
+            if PROSODY:
+                from prosody import liven
+                with wave.open(raw) as w:
+                    sr0 = w.getframerate(); x = np.frombuffer(w.readframes(w.getnframes()), dtype=np.int16).astype(np.float32) / 32768
+                y = liven(x, sr0, text)
+                with wave.open(raw, 'wb') as w:
+                    w.setnchannels(1); w.setsampwidth(2); w.setframerate(sr0); w.writeframes((np.clip(y, -1, 1) * 32767).astype(np.int16).tobytes())
         else:
             subprocess.run(['espeak-ng', '-v', VOICE, '-s', str(SPEED), '-p', '48', '-g', '2', '-w', raw, text],
                            check=True, stderr=subprocess.DEVNULL)
