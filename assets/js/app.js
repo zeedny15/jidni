@@ -35,7 +35,7 @@ const MODULES = [
   { id: "b06", group: "B", num: 6, title: "Regulasi Tekanan & Aliran Darah", file: "b06-regulasi.html", ready: true, desc: "Kontrol lokal, neural, dan hormonal." },
   // C. Klinis & Farmakologi (Kuliah 6–13)
   { id: "c01", group: "C", num: 1, title: "Kelainan Jantung Kongenital", file: "c01-kongenital.html", ready: true, desc: "VSD, ASD, PDA, dan Tetralogi Fallot." },
-  { id: "c02", group: "C", num: 2, title: "Hipertensi", file: "c02-hipertensi.html", desc: "Hipertensi esensial, sekunder, dan krisis hipertensi." },
+  { id: "c02", group: "C", num: 2, title: "Hipertensi", file: "c02-hipertensi.html", ready: true, desc: "Hipertensi esensial, sekunder, dan krisis hipertensi." },
   { id: "c03", group: "C", num: 3, title: "Penyakit Jantung Koroner", file: "c03-pjk.html", desc: "Sindrom koroner akut & kronik." },
   { id: "c04", group: "C", num: 4, title: "Farmakoterapi Hipertensi & Antiangina", file: "c04-farmako-ht-angina.html", desc: "ACEi, ARB, CCB, diuretik, β-bloker, nitrat, dll." },
   { id: "c05", group: "C", num: 5, title: "Radang Dinding Jantung & PJR", file: "c05-radang-pjr.html", desc: "Endokarditis, miokarditis, perikarditis, penyakit jantung reumatik." },
