@@ -445,3 +445,41 @@ function initFlash(c, el) {
   K.$('[data-act="shuffle"]', el).addEventListener("click", () => { shuffleArr(K.$$(".flash", grid)).forEach((b) => { b.classList.remove("flipped"); grid.appendChild(b); }); });
   upd();
 }
+
+/* ---------- Generator murmur sederhana (WebAudio) ----------
+   shape: "holo" | "ejection" | "earlydia" | "middia" | "continuous" | "click" | "none"
+   opts: { beats, cycle, s1, s2, split } (s1/s2 = kekerasan 0..1)                        */
+K.playMurmur = function (shape, opts = {}) {
+  try {
+    if (!K.audio) K.audio = new (window.AudioContext || window.webkitAudioContext)();
+    const ctx = K.audio; if (ctx.state === "suspended") ctx.resume();
+    if (!K._noise) {
+      const b = ctx.createBuffer(1, ctx.sampleRate * 2, ctx.sampleRate), d = b.getChannelData(0);
+      for (let i = 0; i < d.length; i++) d[i] = Math.random() * 2 - 1;
+      K._noise = b;
+    }
+    const beats = opts.beats || 4, C = opts.cycle || 0.9, s2t = 0.34 * C / 0.9 + 0.0;
+    const t0 = ctx.currentTime + 0.05;
+    const seg = (a, b, fn, freq, q, gain) => {
+      const src = ctx.createBufferSource(); src.buffer = K._noise;
+      const f = ctx.createBiquadFilter(); f.type = "bandpass"; f.frequency.value = freq; f.Q.value = q || 1;
+      const g = ctx.createGain(); const n = 64, curve = new Float32Array(n);
+      for (let i = 0; i < n; i++) curve[i] = Math.max(0.0001, fn(i / (n - 1)) * gain);
+      g.gain.setValueAtTime(0.0001, a); g.gain.setValueCurveAtTime(curve, a, b - a);
+      src.connect(f).connect(g).connect(ctx.destination); src.start(a); src.stop(b + .02);
+    };
+    for (let k = 0; k < beats; k++) {
+      const b = t0 + k * C, sys = b + 0.04, s2 = b + s2t;
+      K.thump(55, .12, .9 * (opts.s1 ?? 1), b - ctx.currentTime);
+      K.thump(80, .08, .75 * (opts.s2 ?? 1), s2 - ctx.currentTime);
+      if (opts.split) K.thump(72, .07, .6, s2 + 0.05 - ctx.currentTime);
+      if (shape === "holo") seg(sys, s2, () => 1, 350, 0.8, .25);
+      if (shape === "ejection") seg(b + .07, s2 - .04, (x) => Math.sin(Math.PI * x), 300, 1, .32);
+      if (shape === "earlydia") seg(s2 + .01, s2 + .3, (x) => 1 - x, 600, 1.2, .22);
+      if (shape === "middia") { seg(s2 + .12, b + C - .12, (x) => .6 + .4 * Math.sin(Math.PI * x), 90, 2.5, .5); seg(b + C - .12, b + C - .01, (x) => .4 + .6 * x, 90, 2.5, .6); K.thump(140, .04, .45, s2 + .07 - ctx.currentTime); }
+      if (shape === "continuous") seg(sys, b + C - .02, (x) => x < .4 ? .3 + 1.75 * x : 1 - (x - .4) * 1.4, 250, .7, .3);
+      if (shape === "click") { K.thump(300, .03, .6, b + .18 - ctx.currentTime); seg(b + .2, s2 - .01, (x) => .3 + .7 * x, 400, 1, .18); }
+    }
+    return beats * C;
+  } catch (e) { return 0; }
+};
