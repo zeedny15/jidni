@@ -473,3 +473,4 @@ input[type="range"] { width: 100%; accent-color: var(--primary); height: 28px; }
 .h-cond path.on { opacity: 1; stroke-width: 5; }
 [data-n] { fill: var(--warn); stroke: #fff; stroke-width: 2; }
 [data-n].on { fill: #fff; stroke: var(--warn); stroke-width: 4; }
+.vlv line { stroke-width: 5; stroke-linecap: round; }
