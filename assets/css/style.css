@@ -474,3 +474,5 @@ input[type="range"] { width: 100%; accent-color: var(--primary); height: 28px; }
 [data-n] { fill: var(--warn); stroke: #fff; stroke-width: 2; }
 [data-n].on { fill: #fff; stroke: var(--warn); stroke-width: 4; }
 .vlv line { stroke-width: 5; stroke-linecap: round; }
+.lh-v line { stroke-width: 5; stroke-linecap: round; }
+.wg { max-width: 640px; margin: auto; } #gq, #pv { max-width: 600px; margin: auto; }
