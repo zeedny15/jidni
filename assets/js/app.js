@@ -12,7 +12,7 @@ const MODULES = [
     desc: "Perjalanan darah melalui dua sirkuit: paru dan seluruh tubuh." },
   { id: "a02", group: "A", num: 2, title: "Sirkulasi Koroner", file: "a02-koroner.html", ready: true, desc: "Bagaimana otot jantung sendiri mendapat darah." },
   { id: "a03", group: "A", num: 3, title: "Produksi ATP di Otot Jantung", file: "a03-atp.html", ready: true, desc: "Bahan bakar jantung yang tak pernah berhenti bekerja." },
-  { id: "a04", group: "A", num: 4, title: "Ciri & Jenis Sel Otot Jantung", file: "a04-sel-otot.html", desc: "Sel kontraktil vs sel autoritmik, diskus interkalaris." },
+  { id: "a04", group: "A", num: 4, title: "Ciri & Jenis Sel Otot Jantung", file: "a04-sel-otot.html", ready: true, desc: "Sel kontraktil vs sel autoritmik, diskus interkalaris." },
   { id: "a05", group: "A", num: 5, title: "Sistem Hantaran Jantung", file: "a05-hantaran.html", desc: "SA node → AV node → Bundle of His → Purkinje." },
   { id: "a06", group: "A", num: 6, title: "Ritme Jantung & Pacemaker Potential", file: "a06-pacemaker.html", desc: "Mengapa jantung bisa berdenyut sendiri." },
   { id: "a07", group: "A", num: 7, title: "Potensial Aksi Sel Kontraktil", file: "a07-potensial-aksi.html", desc: "Fase 0–4 dan peran Na⁺, Ca²⁺, K⁺." },
