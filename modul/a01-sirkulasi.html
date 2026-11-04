@@ -1,0 +1,369 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>A1 · Sirkulasi Sistemik & Pulmonal — KardioBelajar</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body data-root="../" data-module="a01">
+  <header class="topbar">
+    <button class="icon-btn menu-btn" type="button" aria-label="Buka menu">☰</button>
+    <a class="brand" href="../index.html"><span class="brand-logo">♥</span> KardioBelajar</a>
+    <span class="spacer"></span>
+    <button class="icon-btn" type="button" data-theme-toggle aria-label="Ganti tema terang/gelap">🌓</button>
+  </header>
+  <div class="overlay"></div>
+
+  <div class="layout">
+    <nav class="sidebar" id="sidebar" aria-label="Daftar materi"></nav>
+
+    <main class="main">
+      <div class="container">
+        <div class="module-head">
+          <div class="eyebrow">Fisiologi Jantung · Topik A1</div>
+          <h1>Sirkulasi Sistemik & Pulmonal</h1>
+          <div style="display:flex;align-items:center;gap:10px">
+            <div class="progress" style="flex:1"><span id="module-bar" style="width:0%"></span></div>
+            <span class="small muted" id="module-pct">0%</span>
+          </div>
+        </div>
+
+        <div class="stepper" id="stepper" role="tablist"></div>
+
+        <!-- =================================================== -->
+        <!-- 1. GAMBARAN BESAR                                   -->
+        <!-- =================================================== -->
+        <section class="lesson-section" id="gambaran" data-title="Gambaran Besar">
+          <div class="card">
+            <h2><span class="emoji">💡</span> Gambaran Besar</h2>
+            <p>Jantung sebenarnya adalah <b>dua pompa yang ditempel berdampingan</b>:</p>
+            <ul class="key-points">
+              <li><span class="k-ico">🔵</span><span><b>Pompa kanan</b> mendorong darah <b>miskin O₂</b> ke <b>paru-paru</b> → disebut <b>sirkulasi pulmonal</b> (sirkuit kecil).</span></li>
+              <li><span class="k-ico">🔴</span><span><b>Pompa kiri</b> mendorong darah <b>kaya O₂</b> ke <b>seluruh tubuh</b> → disebut <b>sirkulasi sistemik</b> (sirkuit besar).</span></li>
+              <li><span class="k-ico">∞</span><span>Kedua sirkuit tersambung <b>berurutan (seri)</b>, membentuk pola seperti angka 8. Darah selalu melewati paru dulu sebelum ke tubuh, dan sebaliknya.</span></li>
+            </ul>
+          </div>
+
+          <div class="card">
+            <h3 style="font-size:1.05rem">🎬 Lihat polanya: dua lingkaran, satu jantung</h3>
+            <div class="viz-wrap">
+              <svg viewBox="0 0 400 330" role="img" aria-label="Skema dua sirkuit berbentuk angka delapan">
+                <defs>
+                  <marker id="arrowR" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+                    <path d="M0,0 L10,5 L0,10 z" fill="var(--o2-rich)"/></marker>
+                  <marker id="arrowB" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+                    <path d="M0,0 L10,5 L0,10 z" fill="var(--o2-poor)"/></marker>
+                </defs>
+                <!-- Paru -->
+                <rect x="130" y="14" width="140" height="50" rx="24" fill="var(--surface)" stroke="var(--border)"/>
+                <text class="svg-label" x="200" y="44" text-anchor="middle">🫁 Paru-paru</text>
+                <!-- Tubuh -->
+                <rect x="110" y="266" width="180" height="50" rx="24" fill="var(--surface)" stroke="var(--border)"/>
+                <text class="svg-label" x="200" y="296" text-anchor="middle">🧍 Seluruh tubuh</text>
+                <!-- Jantung -->
+                <rect x="140" y="135" width="58" height="64" rx="14" fill="var(--o2-poor)" opacity=".9"/>
+                <rect x="202" y="135" width="58" height="64" rx="14" fill="var(--o2-rich)" opacity=".9"/>
+                <text class="svg-label white" x="169" y="165" text-anchor="middle">Pompa</text>
+                <text class="svg-label white" x="169" y="181" text-anchor="middle">kanan</text>
+                <text class="svg-label white" x="231" y="165" text-anchor="middle">Pompa</text>
+                <text class="svg-label white" x="231" y="181" text-anchor="middle">kiri</text>
+                <!-- Loop pulmonal -->
+                <path class="flow-dash" d="M169,135 C169,105 100,100 130,52" stroke="var(--o2-poor)" stroke-width="5" fill="none" marker-end="url(#arrowB)"/>
+                <path class="flow-dash" d="M270,52 C300,100 231,105 231,135" stroke="var(--o2-rich)" stroke-width="5" fill="none" marker-end="url(#arrowR)"/>
+                <!-- Loop sistemik -->
+                <path class="flow-dash" d="M231,199 C231,240 330,230 290,280" stroke="var(--o2-rich)" stroke-width="5" fill="none" marker-end="url(#arrowR)"/>
+                <path class="flow-dash" d="M110,280 C70,230 169,240 169,199" stroke="var(--o2-poor)" stroke-width="5" fill="none" marker-end="url(#arrowB)"/>
+                <text class="svg-label small" x="8" y="92">Sirkulasi pulmonal</text>
+                <text class="svg-label small" x="395" y="250" text-anchor="end">Sirkulasi sistemik</text>
+              </svg>
+            </div>
+            <div class="callout">
+              <p><b>Hubungan dengan materi berikutnya:</b> semua topik selanjutnya (katup, siklus jantung, cardiac output, tekanan darah) hanyalah detail dari “bagaimana dua pompa ini mendorong darah melewati dua sirkuit”.</p>
+            </div>
+          </div>
+        </section>
+
+        <!-- =================================================== -->
+        <!-- 2. LANGKAH DEMI LANGKAH + VISUAL                    -->
+        <!-- =================================================== -->
+        <section class="lesson-section" id="tahap" data-title="Langkah demi Langkah">
+          <div class="card">
+            <h2><span class="emoji">🎬</span> Ikuti satu tetes darah</h2>
+            <p class="muted small" style="margin-bottom:14px">Baca penjelasan tiap langkah, lalu lihat diagramnya. Klik bagian mana pun pada diagram untuk penjelasan tambahan.</p>
+
+            <div class="explorer">
+              <div class="explorer-text">
+                <div class="step-counter" id="step-counter">Langkah 1 dari 9</div>
+                <div class="step-body" id="step-body"></div>
+              </div>
+              <div class="explorer-ctrl">
+                <div class="step-dots" id="step-dots"></div>
+                <div class="controls">
+                  <button class="btn btn-sm" id="step-prev" type="button">← Sebelumnya</button>
+                  <button class="btn btn-sm btn-primary" id="step-next" type="button">Selanjutnya →</button>
+                  <button class="btn btn-sm" id="step-play" type="button">▶ Putar otomatis</button>
+                </div>
+              </div>
+
+              <div class="explorer-viz">
+                <div class="viz-wrap">
+                  <div class="viz-toolbar">
+                    <div class="segmented" role="group" aria-label="Mode warna">
+                      <button type="button" class="on" data-mode="o2">Warna: kadar O₂</button>
+                      <button type="button" data-mode="type">Warna: arteri/vena</button>
+                    </div>
+                  </div>
+                  <svg id="circ-svg" viewBox="0 0 500 545" role="img" aria-label="Diagram sirkulasi darah">
+                    <defs>
+                      <linearGradient id="lungGrad" gradientUnits="userSpaceOnUse" x1="160" y1="0" x2="340" y2="0">
+                        <stop offset="0" stop-color="var(--o2-poor)"/><stop offset="1" stop-color="var(--o2-rich)"/>
+                      </linearGradient>
+                      <linearGradient id="bodyGrad" gradientUnits="userSpaceOnUse" x1="150" y1="0" x2="350" y2="0">
+                        <stop offset="0" stop-color="var(--o2-poor)"/><stop offset="1" stop-color="var(--o2-rich)"/>
+                      </linearGradient>
+                    </defs>
+
+                    <!-- Organ -->
+                    <g class="part" data-part="lungs" tabindex="0">
+                      <rect x="120" y="28" width="260" height="84" rx="34" fill="var(--surface)" stroke="var(--border)" stroke-width="2"/>
+                      <text class="svg-label" x="250" y="54" text-anchor="middle">🫁 Paru-paru</text>
+                    </g>
+                    <g class="part" data-part="body" tabindex="0">
+                      <rect x="120" y="448" width="260" height="84" rx="34" fill="var(--surface)" stroke="var(--border)" stroke-width="2"/>
+                      <text class="svg-label" x="250" y="522" text-anchor="middle">🧍 Jaringan tubuh</text>
+                    </g>
+
+                    <!-- Pembuluh (urutan = urutan aliran) -->
+                    <path class="vessel" data-seg="vc"    d="M150,450 V420 H55 V232 H110" stroke-width="9"/>
+                    <path class="vessel" data-seg="ra_rv" d="M130,240 V306" stroke-width="7"/>
+                    <path class="vessel" data-seg="pa"    d="M210,312 H240 V150 H160 V112" stroke-width="9"/>
+                    <path class="vessel" data-seg="lung"  d="M160,112 V80 H340 V112" stroke-width="7"/>
+                    <path class="vessel" data-seg="pv"    d="M340,112 V150 H445 V232 H390" stroke-width="9"/>
+                    <path class="vessel" data-seg="la_lv" d="M370,240 V306" stroke-width="7"/>
+                    <path class="vessel" data-seg="ao"    d="M390,312 H445 V420 H350 V450" stroke-width="9"/>
+                    <path class="vessel" data-seg="body"  d="M350,450 V482 H150 V450" stroke-width="7"/>
+
+                    <!-- Ruang jantung -->
+                    <g class="part chamber" data-part="RA" tabindex="0">
+                      <rect x="110" y="198" width="100" height="66" rx="16" data-side="right"/>
+                      <text class="svg-label white" x="173" y="226" text-anchor="middle">Atrium</text>
+                      <text class="svg-label white" x="173" y="242" text-anchor="middle">kanan</text>
+                    </g>
+                    <g class="part chamber" data-part="RV" tabindex="0">
+                      <rect x="110" y="276" width="100" height="74" rx="16" data-side="right"/>
+                      <text class="svg-label white" x="173" y="314" text-anchor="middle">Ventrikel</text>
+                      <text class="svg-label white" x="173" y="330" text-anchor="middle">kanan</text>
+                    </g>
+                    <g class="part chamber" data-part="LA" tabindex="0">
+                      <rect x="290" y="198" width="100" height="66" rx="16" data-side="left"/>
+                      <text class="svg-label white" x="327" y="226" text-anchor="middle">Atrium</text>
+                      <text class="svg-label white" x="327" y="242" text-anchor="middle">kiri</text>
+                    </g>
+                    <g class="part chamber" data-part="LV" tabindex="0">
+                      <rect x="290" y="276" width="100" height="74" rx="16" data-side="left"/>
+                      <text class="svg-label white" x="327" y="314" text-anchor="middle">Ventrikel</text>
+                      <text class="svg-label white" x="327" y="330" text-anchor="middle">kiri</text>
+                    </g>
+                    <!-- Septum -->
+                    <rect x="248" y="198" width="4" height="152" rx="2" fill="var(--border)"/>
+
+                    <!-- Katup -->
+                    <rect class="part valve" data-part="tri" data-valve="tri" x="112" y="266" width="36" height="8" rx="3" tabindex="0"/>
+                    <rect class="part valve" data-part="mit" data-valve="mit" x="352" y="266" width="36" height="8" rx="3" tabindex="0"/>
+                    <rect class="part valve" data-part="pul" data-valve="pul" x="221" y="302" width="8" height="20" rx="3" tabindex="0"/>
+                    <rect class="part valve" data-part="aor" data-valve="aor" x="406" y="302" width="8" height="20" rx="3" tabindex="0"/>
+
+                    <!-- Partikel darah -->
+                    <g id="particles"></g>
+
+                    <!-- Label pembuluh (dapat diklik) -->
+                    <g class="part" data-part="vc" tabindex="0"><rect x="10" y="318" width="80" height="24" rx="12" fill="var(--surface)" stroke="var(--border)"/><text class="svg-label small" x="50" y="334" text-anchor="middle">Vena kava</text></g>
+                    <g class="part" data-part="pa" tabindex="0"><rect x="196" y="160" width="88" height="34" rx="12" fill="var(--surface)" stroke="var(--border)"/><text class="svg-label small" x="240" y="174" text-anchor="middle">Arteri</text><text class="svg-label small" x="240" y="187" text-anchor="middle">pulmonalis</text></g>
+                    <g class="part" data-part="pv" tabindex="0"><rect x="404" y="170" width="88" height="34" rx="12" fill="var(--surface)" stroke="var(--border)"/><text class="svg-label small" x="448" y="184" text-anchor="middle">Vena</text><text class="svg-label small" x="448" y="197" text-anchor="middle">pulmonalis</text></g>
+                    <g class="part" data-part="ao" tabindex="0"><rect x="410" y="360" width="70" height="24" rx="12" fill="var(--surface)" stroke="var(--border)"/><text class="svg-label small" x="445" y="376" text-anchor="middle">Aorta</text></g>
+
+                    <text class="svg-label small" x="160" y="368" text-anchor="middle">JANTUNG KANAN</text>
+                    <text class="svg-label small" x="340" y="368" text-anchor="middle">JANTUNG KIRI</text>
+                    <text class="svg-label small" x="250" y="386" text-anchor="middle">(kanan pasien tampak di kiri layar)</text>
+                  </svg>
+                  <div class="legend" id="legend"></div>
+                </div>
+                <div class="info-panel" id="info-panel">👆 <span class="muted">Klik ruang jantung, katup, pembuluh, paru, atau jaringan tubuh untuk melihat penjelasannya.</span></div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- =================================================== -->
+        <!-- 3. SEBAB-AKIBAT                                     -->
+        <!-- =================================================== -->
+        <section class="lesson-section" id="sebab" data-title="Sebab-Akibat">
+          <div class="card">
+            <h2><span class="emoji">🔗</span> Dua sirkuit, dua “karakter”</h2>
+            <p>Kedua sirkuit mengalirkan <b>jumlah darah yang sama</b> tiap menit, tetapi “medannya” sangat berbeda. Tekan tombol untuk membandingkan.</p>
+            <div class="compare" id="compare">
+              <div class="col">
+                <h3>🔵 Sirkulasi pulmonal</h3>
+                <div class="bar-row"><div class="bar-label"><span>Tekanan rata-rata arteri</span><b data-val>≈ 15 mmHg</b></div><div class="bar"><span data-w="16" style="width:0;background:var(--o2-poor)"></span></div></div>
+                <div class="bar-row"><div class="bar-label"><span>Resistensi pembuluh</span><b>rendah</b></div><div class="bar"><span data-w="14" style="width:0;background:var(--o2-poor)"></span></div></div>
+                <div class="bar-row"><div class="bar-label"><span>Tebal dinding ventrikel</span><b>tipis (VKa)</b></div><div class="bar"><span data-w="33" style="width:0;background:var(--o2-poor)"></span></div></div>
+                <div class="bar-row"><div class="bar-label"><span>Aliran darah / menit</span><b>≈ 5 L</b></div><div class="bar"><span data-w="100" style="width:0;background:var(--ok)"></span></div></div>
+              </div>
+              <div class="col">
+                <h3>🔴 Sirkulasi sistemik</h3>
+                <div class="bar-row"><div class="bar-label"><span>Tekanan rata-rata arteri</span><b>≈ 93 mmHg</b></div><div class="bar"><span data-w="100" style="width:0;background:var(--o2-rich)"></span></div></div>
+                <div class="bar-row"><div class="bar-label"><span>Resistensi pembuluh</span><b>tinggi</b></div><div class="bar"><span data-w="100" style="width:0;background:var(--o2-rich)"></span></div></div>
+                <div class="bar-row"><div class="bar-label"><span>Tebal dinding ventrikel</span><b>tebal (VKi)</b></div><div class="bar"><span data-w="100" style="width:0;background:var(--o2-rich)"></span></div></div>
+                <div class="bar-row"><div class="bar-label"><span>Aliran darah / menit</span><b>≈ 5 L</b></div><div class="bar"><span data-w="100" style="width:0;background:var(--ok)"></span></div></div>
+              </div>
+            </div>
+            <div class="btn-row" style="margin-top:12px"><button class="btn btn-sm btn-primary" id="compare-btn" type="button">📊 Bandingkan</button>
+              <span class="small muted">Nilai kira-kira pada orang dewasa saat istirahat.</span></div>
+          </div>
+
+          <div class="card">
+            <h3 style="font-size:1.05rem">Rantai sebab-akibat</h3>
+            <p class="muted small">Pilih pertanyaan, lalu buka rantainya satu per satu. Coba tebak langkah berikutnya sebelum menekan tombol!</p>
+            <div class="chain-tabs" id="chain-tabs"></div>
+            <div class="chain" id="chain"></div>
+            <button class="btn btn-sm" id="chain-next" type="button">Tampilkan langkah berikutnya ↓</button>
+          </div>
+        </section>
+
+        <!-- =================================================== -->
+        <!-- 4. INTERAKSI                                        -->
+        <!-- =================================================== -->
+        <section class="lesson-section" id="interaksi" data-title="Interaksi">
+          <div class="card">
+            <h2><span class="emoji">🧩</span> Susun rute darah</h2>
+            <p>Mulai dari <b>vena kava</b>. Ketuk struktur sesuai urutan yang dilewati darah. Kalau salah, kotaknya akan bergetar.</p>
+            <div class="route-slots" id="route-slots"><span class="placeholder">Rute kamu akan muncul di sini…</span></div>
+            <div class="token-pool" id="token-pool"></div>
+            <div id="route-msg" class="small" style="margin-top:10px"></div>
+            <div class="btn-row" style="margin-top:10px"><button class="btn btn-sm" id="route-reset" type="button">↺ Ulangi</button></div>
+          </div>
+
+          <div class="card">
+            <h2><span class="emoji">🎚️</span> Simulator: keseimbangan dua pompa</h2>
+            <p>Karena sirkuitnya seri, output pompa kanan dan kiri harus <b>sama</b>. Geser kekuatan salah satu pompa dan lihat di mana darah menumpuk.</p>
+            <div class="slider-row">
+              <label for="pump-right">Kekuatan pompa kanan (VKa) <output id="out-right">100%</output></label>
+              <input type="range" id="pump-right" min="40" max="100" value="100">
+            </div>
+            <div class="slider-row">
+              <label for="pump-left">Kekuatan pompa kiri (VKi) <output id="out-left">100%</output></label>
+              <input type="range" id="pump-left" min="40" max="100" value="100">
+            </div>
+            <div class="viz-wrap">
+              <svg id="balance-svg" viewBox="0 0 420 250" role="img" aria-label="Simulator keseimbangan pompa">
+                <!-- Tangki paru -->
+                <text class="svg-label" x="105" y="22" text-anchor="middle">Pembuluh paru</text>
+                <rect x="45" y="32" width="120" height="150" rx="14" fill="var(--surface)" stroke="var(--border)" stroke-width="2"/>
+                <rect id="tank-lung" x="47" y="107" width="116" height="73" rx="12" fill="var(--o2-rich)" opacity=".75"/>
+                <line x1="40" y1="107" x2="170" y2="107" stroke="var(--text-soft)" stroke-dasharray="4 4"/>
+                <text class="svg-label small" x="105" y="200" text-anchor="middle">garis = volume normal</text>
+                <!-- Tangki vena sistemik -->
+                <text class="svg-label" x="315" y="22" text-anchor="middle">Vena sistemik</text>
+                <rect x="255" y="32" width="120" height="150" rx="14" fill="var(--surface)" stroke="var(--border)" stroke-width="2"/>
+                <rect id="tank-sys" x="257" y="107" width="116" height="73" rx="12" fill="var(--o2-poor)" opacity=".75"/>
+                <line x1="250" y1="107" x2="380" y2="107" stroke="var(--text-soft)" stroke-dasharray="4 4"/>
+                <text class="svg-label small" x="315" y="200" text-anchor="middle">(termasuk vena leher & tungkai)</text>
+                <!-- panah -->
+                <text class="svg-label" x="210" y="100" text-anchor="middle" font-size="22">⇄</text>
+                <text id="lung-warn" class="svg-label" x="105" y="235" text-anchor="middle"></text>
+                <text id="sys-warn" class="svg-label" x="315" y="235" text-anchor="middle"></text>
+              </svg>
+            </div>
+            <div class="callout" id="balance-msg"></div>
+            <p class="small muted">Ini model yang disederhanakan. Pada jantung sehat, <b>hukum Frank-Starling</b> (Topik A13) otomatis menyamakan output kedua ventrikel.</p>
+          </div>
+        </section>
+
+        <!-- =================================================== -->
+        <!-- 5. HUBUNGAN KLINIS                                  -->
+        <!-- =================================================== -->
+        <section class="lesson-section" id="klinis" data-title="Hubungan Klinis">
+          <div class="card">
+            <h2><span class="emoji">🩺</span> Jika mekanismenya terganggu…</h2>
+            <p>Gunakan logika “darah menumpuk <b>sebelum</b> pompa yang lemah / sumbatan”. Pikirkan dulu jawabannya, lalu buka kartunya.</p>
+            <div class="clinic-grid">
+              <details class="clinic-card">
+                <summary>🫁 Ventrikel kiri melemah (gagal jantung kiri)</summary>
+                <div class="clinic-body">
+                  <div class="chain">
+                    <div class="chain-node cause">VKi tidak mampu memompa semua darah yang datang</div>
+                    <div class="chain-arrow">↓</div>
+                    <div class="chain-node">Darah “mengantre” di atrium kiri → vena pulmonalis → kapiler paru</div>
+                    <div class="chain-arrow">↓</div>
+                    <div class="chain-node effect">Tekanan kapiler paru ↑ → cairan merembes ke alveolus → <b>sesak napas</b>, ronki basah</div>
+                  </div>
+                </div>
+              </details>
+              <details class="clinic-card">
+                <summary>🦵 Ventrikel kanan melemah (gagal jantung kanan)</summary>
+                <div class="clinic-body">
+                  <div class="chain">
+                    <div class="chain-node cause">VKa tidak mampu memompa semua darah balik</div>
+                    <div class="chain-arrow">↓</div>
+                    <div class="chain-node">Darah menumpuk di atrium kanan → vena kava → vena sistemik</div>
+                    <div class="chain-arrow">↓</div>
+                    <div class="chain-node effect"><b>JVP meningkat</b> (vena leher tampak penuh), <b>edema tungkai</b>, pembesaran hati</div>
+                  </div>
+                </div>
+              </details>
+              <details class="clinic-card">
+                <summary>🧱 Sumbatan arteri pulmonalis (emboli paru)</summary>
+                <div class="clinic-body">
+                  <div class="chain">
+                    <div class="chain-node cause">Bekuan darah menyumbat arteri pulmonalis</div>
+                    <div class="chain-arrow">↓</div>
+                    <div class="chain-node">Sebagian paru tidak mendapat aliran darah → pertukaran gas terganggu</div>
+                    <div class="chain-arrow">↓</div>
+                    <div class="chain-node effect">Darah yang ke tubuh kurang O₂ (<b>hipoksemia</b>), dan VKa harus memompa melawan resistensi yang tiba-tiba tinggi</div>
+                  </div>
+                </div>
+              </details>
+              <details class="clinic-card">
+                <summary>🕳️ Lubang di sekat jantung (defek septum)</summary>
+                <div class="clinic-body">
+                  <div class="chain">
+                    <div class="chain-node cause">Ada lubang antara sisi kiri dan kanan jantung</div>
+                    <div class="chain-arrow">↓</div>
+                    <div class="chain-node">Tekanan sisi kiri lebih tinggi → darah kaya O₂ bocor <b>dari kiri ke kanan</b></div>
+                    <div class="chain-arrow">↓</div>
+                    <div class="chain-node effect">Sirkulasi paru menerima darah berlebih → lama-lama pembuluh paru dan VKa terbebani</div>
+                  </div>
+                </div>
+              </details>
+            </div>
+            <div class="callout warn" style="margin-top:14px"><p>Fokus modul ini tetap fisiologi. Detail diagnosis & terapi akan kamu pelajari di blok klinis.</p></div>
+          </div>
+        </section>
+
+        <!-- =================================================== -->
+        <!-- 6. CEK PEMAHAMAN                                    -->
+        <!-- =================================================== -->
+        <section class="lesson-section" id="kuis" data-title="Cek Pemahaman">
+          <div class="card" style="margin-bottom:16px">
+            <h2><span class="emoji">✅</span> Cek Pemahaman</h2>
+            <p class="muted" style="margin:0">Jawab dulu dengan logikamu sendiri. Penjelasan akan muncul setelah kamu memilih.</p>
+          </div>
+          <div id="quiz"></div>
+        </section>
+
+        <div class="pager">
+          <button class="btn" id="pager-prev" type="button">← Sebelumnya</button>
+          <button class="btn btn-primary" id="pager-next" type="button">Selanjutnya →</button>
+        </div>
+      </div>
+      <footer class="footer">KardioBelajar · Topik A1</footer>
+    </main>
+  </div>
+
+  <script src="../assets/js/app.js"></script>
+  <script src="../assets/js/modules/a01-sirkulasi.js"></script>
+</body>
+</html>

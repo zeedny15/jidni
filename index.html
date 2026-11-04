@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>KardioBelajar — Buku Fisiologi Interaktif</title>
+  <meta name="description" content="Belajar fisiologi jantung dan vaskular secara visual dan interaktif.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body data-root="">
+  <header class="topbar">
+    <button class="icon-btn menu-btn" type="button" aria-label="Buka menu">☰</button>
+    <a class="brand" href="index.html"><span class="brand-logo">♥</span> KardioBelajar</a>
+    <span class="spacer"></span>
+    <button class="icon-btn" type="button" data-theme-toggle aria-label="Ganti tema terang/gelap">🌓</button>
+  </header>
+  <div class="overlay"></div>
+
+  <div class="layout">
+    <nav class="sidebar" id="sidebar" aria-label="Daftar materi"></nav>
+
+    <main class="main">
+      <div class="container">
+
+        <section class="hero">
+          <div>
+            <span class="chip red">Buku fisiologi interaktif</span>
+            <h1 style="margin-top:12px">Pahami jantung & pembuluh darah dengan <span style="color:var(--primary)">melihat prosesnya</span>.</h1>
+            <p>Setiap topik dipecah menjadi langkah kecil. Baca sebentar, lalu langsung lihat animasinya, mainkan variabelnya, dan uji pemahamanmu.</p>
+            <div class="btn-row">
+              <a class="btn btn-primary" id="continue-btn" href="modul/a01-sirkulasi.html"><span>Mulai belajar</span> →</a>
+              <a class="btn btn-ghost" href="#materi">Lihat semua materi</a>
+            </div>
+          </div>
+          <div class="hero-visual" aria-hidden="true">
+            <svg viewBox="0 0 200 180" width="210">
+              <g class="heartbeat">
+                <path d="M100 165 C 40 120, 10 85, 20 50 C 30 15, 80 10, 100 45 C 120 10, 170 15, 180 50 C 190 85, 160 120, 100 165 Z"
+                      fill="var(--primary)" opacity=".9"/>
+                <polyline points="35,85 70,85 80,65 92,110 104,50 114,95 122,85 165,85"
+                      fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+              </g>
+            </svg>
+          </div>
+        </section>
+
+        <div class="stat-row">
+          <div class="stat"><b id="stat-overall">0%</b><span>Progres total</span></div>
+          <div class="stat"><b id="stat-done">0/19</b><span>Topik selesai</span></div>
+          <div class="stat"><b id="stat-ready">1</b><span>Modul tersedia</span></div>
+        </div>
+        <div class="progress" style="margin-top:12px"><span id="overall-bar" style="width:0%"></span></div>
+
+        <div class="section-head"><h2>Cara belajar di sini</h2></div>
+        <div class="card">
+          <p class="muted" style="margin:0">Setiap modul mengikuti pola yang sama, supaya otakmu terbiasa:</p>
+          <ol class="flow-steps">
+            <li><span>💡</span>Penjelasan singkat</li>
+            <li><span>🎬</span>Visual & animasi</li>
+            <li><span>🔗</span>Sebab-akibat</li>
+            <li><span>🕹️</span>Interaksi</li>
+            <li><span>✅</span>Cek pemahaman</li>
+          </ol>
+          <p class="muted small" style="margin:14px 0 0">Progres tersimpan otomatis di browser perangkat ini. Menu ☰ (di HP) atau sidebar kiri (di laptop) menampilkan semua topik.</p>
+        </div>
+
+        <div id="materi"></div>
+        <div id="module-groups"></div>
+
+        <div style="margin-top:30px; text-align:center">
+          <button class="btn btn-sm btn-ghost" id="reset-progress" type="button">Reset progres</button>
+        </div>
+      </div>
+      <footer class="footer">KardioBelajar · Dibuat untuk belajar fisiologi kardiovaskular. Bukan pengganti buku teks & kuliah.</footer>
+    </main>
+  </div>
+
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
