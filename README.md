@@ -3,29 +3,37 @@
 Website belajar fisiologi jantung & vaskular dengan pola:
 **Penjelasan singkat → Visual/animasi → Sebab-akibat → Interaksi → Cek pemahaman**.
 
+Online: https://zeedny15.github.io/jidni/
+
 ## Cara membuka
-- **Paling mudah:** buka file `index.html` langsung di browser (klik dua kali). Tidak perlu instalasi.
-- **Lewat server lokal (opsional):** `python3 -m http.server 8000` lalu buka http://localhost:8000
-- **Online:** aktifkan GitHub Pages (Settings → Pages → Deploy from branch → pilih branch & folder `/root`).
+- **Online:** buka link di atas (GitHub Pages dari branch `gh-pages`).
+- **Offline:** buka `index.html` langsung di browser (klik dua kali). Tidak perlu instalasi.
+- **Server lokal (opsional):** `python3 -m http.server 8000` lalu buka http://localhost:8000
 
 Progres belajar tersimpan di browser (localStorage) perangkat masing-masing.
 
+## Materi (19 topik, semua tersedia)
+**A. Fisiologi Jantung** — A1 Sirkulasi sistemik & pulmonal · A2 Sirkulasi koroner · A3 Produksi ATP ·
+A4 Sel otot jantung · A5 Sistem hantaran · A6 Pacemaker potential · A7 Potensial aksi sel kontraktil ·
+A8 EKG · A9 Bunyi jantung & auskultasi · A10 Siklus jantung & Diagram Wiggers · A11 Cardiac output & reserve ·
+A12 Pengaturan denyut jantung · A13 Stroke volume & Frank-Starling
+
+**B. Fisiologi Vaskular** — B1 Jenis pembuluh · B2 Karakteristik pembuluh (+ gaya Starling) · B3 Tekanan darah (+ simulasi Korotkoff) ·
+B4 Resistensi perifer (Poiseuille) · B5 Venous return · B6 Regulasi lokal, neural, hormonal
+
+Setiap topik berisi 6 bagian: Gambaran Besar, Langkah demi Langkah (visual animasi + tombol Sebelumnya/Selanjutnya/Putar),
+Sebab-Akibat, Interaksi (slider, simulator, game), Hubungan Klinis, dan Cek Pemahaman (5 soal + pembahasan).
+
 ## Struktur
 ```
-index.html                     Halaman utama + daftar 19 topik + progres
-modul/a01-sirkulasi.html       Modul A1: Sirkulasi Sistemik & Pulmonal
-assets/css/style.css           Gaya global (terang/gelap, responsif)
-assets/js/app.js               Daftar modul, progres, sidebar, mesin langkah & kuis
-assets/js/modules/a01-sirkulasi.js  Animasi & interaksi khusus modul A1
+index.html                   Halaman utama + daftar topik + progres
+modul/*.html                 Satu file per topik (A1 berupa HTML lengkap; lainnya kerangka ringan)
+assets/css/style.css         Gaya global (terang/gelap, responsif)
+assets/js/app.js             Daftar modul, progres, sidebar, mesin langkah & kuis
+assets/js/engine.js          Mesin modul: registerModule(), explorer, rantai sebab-akibat, game, ilustrasi jantung
+assets/js/modules/*.js       Isi & visual tiap topik
 ```
 
-## Menambah modul baru
-1. Salin `modul/a01-sirkulasi.html` menjadi file baru, ganti `data-module` dan isinya.
-2. Setiap `<section class="lesson-section" data-title="...">` otomatis menjadi satu langkah di stepper.
-3. Tambahkan `file` dan `ready: true` pada entri modul di `MODULES` (`assets/js/app.js`).
-4. Kuis: panggil `initQuiz("quiz", "<id>", [ {q, options, answer, explain}, ... ])`.
-
-## Status
-- [x] Tahap 1 — Struktur & halaman utama
-- [x] Tahap 2–3 — Modul A1 lengkap
-- [ ] Modul A2–A13, B1–B6
+## Menambah / mengubah modul
+Isi topik ada di `assets/js/modules/<id>.js` dan memanggil `registerModule({ id, sections: [...] })`.
+Jenis kartu yang tersedia: HTML bebas, `explorer` (langkah + visual), `chain`, `clinic`, `order`, `match`, dan bagian `quiz`.
