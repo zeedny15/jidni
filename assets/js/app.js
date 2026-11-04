@@ -39,7 +39,7 @@ const MODULES = [
   { id: "c03", group: "C", num: 3, title: "Penyakit Jantung Koroner", file: "c03-pjk.html", ready: true, desc: "Sindrom koroner akut & kronik." },
   { id: "c04", group: "C", num: 4, title: "Farmakoterapi Hipertensi & Antiangina", file: "c04-farmako-ht-angina.html", ready: true, desc: "ACEi, ARB, CCB, diuretik, β-bloker, nitrat, dll." },
   { id: "c05", group: "C", num: 5, title: "Radang Dinding Jantung & PJR", file: "c05-radang-pjr.html", ready: true, desc: "Endokarditis, miokarditis, perikarditis, penyakit jantung reumatik." },
-  { id: "c06", group: "C", num: 6, title: "Kelainan Katup Jantung", file: "c06-katup.html", desc: "Stenosis & regurgitasi mitral/aorta, dan lainnya." },
+  { id: "c06", group: "C", num: 6, title: "Kelainan Katup Jantung", file: "c06-katup.html", ready: true, desc: "Stenosis & regurgitasi mitral/aorta, dan lainnya." },
   { id: "c07", group: "C", num: 7, title: "Kardiomiopati & Kor Pulmonale", file: "c07-kardiomiopati.html", desc: "Dilatasi, hipertrofik, restriktif; kor pulmonale akut & kronik." },
   { id: "c08", group: "C", num: 8, title: "Farmakoterapi Trombotik & Dislipidemia", file: "c08-farmako-trombotik.html", desc: "Statin, antiplatelet, trombolitik." },
 ];
