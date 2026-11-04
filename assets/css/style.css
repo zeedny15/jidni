@@ -466,3 +466,10 @@ input[type="range"] { width: 100%; accent-color: var(--primary); height: 28px; }
 .table-wrap { overflow-x: auto; }
 .pulse-hl { animation: pulsehl 1s ease-in-out infinite; }
 @keyframes pulsehl { 0%,100% { opacity: 1; } 50% { opacity: .45; } }
+.h-reg { fill: var(--primary-soft); transition: fill .12s; }
+.h-reg.on { fill: var(--primary); }
+.h-reg.rep { fill: color-mix(in srgb, var(--primary) 35%, var(--primary-soft)); }
+.h-cond path { stroke: var(--warn); stroke-width: 3.5; opacity: .55; }
+.h-cond path.on { opacity: 1; stroke-width: 5; }
+[data-n] { fill: var(--warn); stroke: #fff; stroke-width: 2; }
+[data-n].on { fill: #fff; stroke: var(--warn); stroke-width: 4; }

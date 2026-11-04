@@ -384,3 +384,44 @@ K.flow = function (layer) {
     },
   };
 };
+
+/* ---------- Ilustrasi jantung (potongan frontal) dengan sistem hantaran ----------
+   region: data-r = ra | la | rv | lv | sep
+   jalur hantaran: data-c = inter | bach | his | lbb | rbb | purkL | purkR | acc
+   nodus: data-n = sa | av                                                        */
+K.heartSVG = function (uid, opts = {}) {
+  const outline = "M150,34 C118,18 66,26 56,76 C46,130 78,196 150,276 C222,196 254,130 244,76 C234,26 182,18 150,34 Z";
+  const lbl = opts.labels !== false;
+  return `
+  <defs><clipPath id="hc-${uid}"><path d="${outline}"/></clipPath></defs>
+  <g clip-path="url(#hc-${uid})">
+    <rect data-r="ra" x="0" y="0" width="147" height="124" class="h-reg"/>
+    <rect data-r="la" x="153" y="0" width="147" height="124" class="h-reg"/>
+    <rect data-r="rv" x="0" y="130" width="145" height="170" class="h-reg"/>
+    <rect data-r="lv" x="155" y="130" width="145" height="170" class="h-reg"/>
+    <rect data-r="sep" x="145" y="130" width="10" height="170" class="h-reg"/>
+    <rect x="0" y="124" width="300" height="6" fill="var(--text-soft)" opacity=".7"/>
+    <rect x="147" y="0" width="6" height="124" fill="var(--text-soft)" opacity=".4"/>
+  </g>
+  <path d="${outline}" fill="none" stroke="var(--primary)" stroke-width="2.5"/>
+  <g fill="none" stroke-linecap="round" class="h-cond">
+    <path data-c="inter" data-info="inter" d="M96,60 C112,84 126,100 140,120"/>
+    <path data-c="bach" data-info="bach"  d="M96,60 C140,46 182,52 214,72"/>
+    <path data-c="acc" data-info="acc"   d="M226,96 C232,112 236,124 236,150" stroke-dasharray="4 3" style="display:none"/>
+    <path data-c="his" data-info="his"   d="M141,121 L150,142"/>
+    <path data-c="lbb" data-info="lbb"   d="M150,142 C157,182 159,222 156,256"/>
+    <path data-c="rbb" data-info="rbb"   d="M150,142 C143,182 141,222 144,256"/>
+    <path data-c="purkL" data-info="purkL" d="M156,256 C188,248 226,208 238,150"/>
+    <path data-c="purkR" data-info="purkR" d="M144,256 C112,248 74,208 62,150"/>
+  </g>
+  <circle data-n="sa" data-info="sa" cx="96" cy="60" r="8"/>
+  <circle data-n="av" data-info="av" cx="141" cy="120" r="7"/>
+  <g class="h-dots"></g>
+  ${lbl ? `
+  <text class="svg-label small" x="70" y="44">SA</text>
+  <text class="svg-label small" x="112" y="139">AV</text>
+  <text class="svg-label small" x="88" y="104" text-anchor="middle">AK</text>
+  <text class="svg-label small" x="212" y="104" text-anchor="middle">AKi</text>
+  <text class="svg-label small" x="100" y="190" text-anchor="middle">VKa</text>
+  <text class="svg-label small" x="200" y="190" text-anchor="middle">VKi</text>` : ""}`;
+};
