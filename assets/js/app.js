@@ -9,7 +9,7 @@
 const MODULES = [
   // D. Dasar (Kuliah 1–3)
   { id: "d01", group: "D", num: 1, title: "Embriologi CVS", file: "d01-embriologi.html", ready: true, desc: "Tabung jantung, septasi, katup, sirkulasi fetus & perubahan saat lahir." },
-  { id: "d02", group: "D", num: 2, title: "Anatomi CVS", file: "d02-anatomi.html", desc: "Proyeksi jantung, perikardium, mediastinum, ruang, konduksi, pembuluh, persarafan." },
+  { id: "d02", group: "D", num: 2, title: "Anatomi CVS", file: "d02-anatomi.html", ready: true, desc: "Proyeksi jantung, perikardium, mediastinum, ruang, konduksi, pembuluh, persarafan." },
   { id: "d03", group: "D", num: 3, title: "Histologi CVS", file: "d03-histologi.html", desc: "Lapisan dinding jantung, rangka jantung, katup, Purkinje, dinding pembuluh." },
   // A. Fisiologi Jantung
   { id: "a01", group: "A", num: 1, title: "Sirkulasi Sistemik & Pulmonal", file: "a01-sirkulasi.html", ready: true,
