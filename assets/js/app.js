@@ -14,7 +14,7 @@ const MODULES = [
   { id: "a03", group: "A", num: 3, title: "Produksi ATP di Otot Jantung", file: "a03-atp.html", ready: true, desc: "Bahan bakar jantung yang tak pernah berhenti bekerja." },
   { id: "a04", group: "A", num: 4, title: "Ciri & Jenis Sel Otot Jantung", file: "a04-sel-otot.html", ready: true, desc: "Sel kontraktil vs sel autoritmik, diskus interkalaris." },
   { id: "a05", group: "A", num: 5, title: "Sistem Hantaran Jantung", file: "a05-hantaran.html", ready: true, desc: "SA node → AV node → Bundle of His → Purkinje." },
-  { id: "a06", group: "A", num: 6, title: "Ritme Jantung & Pacemaker Potential", file: "a06-pacemaker.html", desc: "Mengapa jantung bisa berdenyut sendiri." },
+  { id: "a06", group: "A", num: 6, title: "Ritme Jantung & Pacemaker Potential", file: "a06-pacemaker.html", ready: true, desc: "Mengapa jantung bisa berdenyut sendiri." },
   { id: "a07", group: "A", num: 7, title: "Potensial Aksi Sel Kontraktil", file: "a07-potensial-aksi.html", desc: "Fase 0–4 dan peran Na⁺, Ca²⁺, K⁺." },
   { id: "a08", group: "A", num: 8, title: "Elektrokardiogram (EKG)", file: "a08-ekg.html", desc: "Membaca gelombang P, QRS, dan T." },
   { id: "a09", group: "A", num: 9, title: "Bunyi Jantung S1 & S2", file: "a09-bunyi-jantung.html", desc: "Asal bunyi jantung dan titik auskultasi." },
