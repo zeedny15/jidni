@@ -21,7 +21,7 @@ const MODULES = [
   { id: "a10", group: "A", num: 10, title: "Siklus Jantung & Diagram Wiggers", file: "a10-siklus-wiggers.html", ready: true, desc: "Tekanan, volume, katup, EKG dalam satu waktu." },
   { id: "a11", group: "A", num: 11, title: "Cardiac Output & Cardiac Reserve", file: "a11-cardiac-output.html", ready: true, desc: "CO = HR × SV dan kapasitas cadangan jantung." },
   { id: "a12", group: "A", num: 12, title: "Pengaturan Denyut Jantung", file: "a12-pengaturan-hr.html", ready: true, desc: "Saraf otonom, pusat kardiovaskular, reseptor." },
-  { id: "a13", group: "A", num: 13, title: "Stroke Volume & Hukum Frank-Starling", file: "a13-stroke-volume.html", desc: "Preload, kontraktilitas, dan afterload." },
+  { id: "a13", group: "A", num: 13, title: "Stroke Volume & Hukum Frank-Starling", file: "a13-stroke-volume.html", ready: true, desc: "Preload, kontraktilitas, dan afterload." },
   // B. Fisiologi Vaskular
   { id: "b01", group: "B", num: 1, title: "Jenis Pembuluh Darah", file: "b01-jenis-pembuluh.html", desc: "Arteri, arteriol, kapiler, venula, vena." },
   { id: "b02", group: "B", num: 2, title: "Karakteristik Tiap Pembuluh", file: "b02-karakteristik.html", desc: "Dinding, diameter, kecepatan aliran, tekanan." },
