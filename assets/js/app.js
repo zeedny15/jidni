@@ -16,7 +16,7 @@ const MODULES = [
   { id: "a05", group: "A", num: 5, title: "Sistem Hantaran Jantung", file: "a05-hantaran.html", ready: true, desc: "SA node → AV node → Bundle of His → Purkinje." },
   { id: "a06", group: "A", num: 6, title: "Ritme Jantung & Pacemaker Potential", file: "a06-pacemaker.html", ready: true, desc: "Mengapa jantung bisa berdenyut sendiri." },
   { id: "a07", group: "A", num: 7, title: "Potensial Aksi Sel Kontraktil", file: "a07-potensial-aksi.html", ready: true, desc: "Fase 0–4 dan peran Na⁺, Ca²⁺, K⁺." },
-  { id: "a08", group: "A", num: 8, title: "Elektrokardiogram (EKG)", file: "a08-ekg.html", desc: "Membaca gelombang P, QRS, dan T." },
+  { id: "a08", group: "A", num: 8, title: "Elektrokardiogram (EKG)", file: "a08-ekg.html", ready: true, desc: "Membaca gelombang P, QRS, dan T." },
   { id: "a09", group: "A", num: 9, title: "Bunyi Jantung S1 & S2", file: "a09-bunyi-jantung.html", desc: "Asal bunyi jantung dan titik auskultasi." },
   { id: "a10", group: "A", num: 10, title: "Siklus Jantung & Diagram Wiggers", file: "a10-siklus-wiggers.html", desc: "Tekanan, volume, katup, EKG dalam satu waktu." },
   { id: "a11", group: "A", num: 11, title: "Cardiac Output & Cardiac Reserve", file: "a11-cardiac-output.html", desc: "CO = HR × SV dan kapasitas cadangan jantung." },
