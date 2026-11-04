@@ -82,7 +82,7 @@ const _inits = [];
 
 function registerModule(spec) {
   const meta = MODULES.find((m) => m.id === spec.id) || {};
-  const groupName = meta.group === "B" ? "Fisiologi Vaskular" : "Fisiologi Jantung";
+  const groupName = (typeof GROUP_SHORT !== "undefined" && GROUP_SHORT[meta.group]) || "KardioBelajar";
   document.body.dataset.module = spec.id;
   document.body.dataset.root = "../";
   document.title = `${meta.group}${meta.num} · ${meta.title} — KardioBelajar`;
@@ -184,7 +184,7 @@ function renderCard(c, s, ci) {
           <div class="clinic-body"><div class="chain">${it.chain.map((t, i, a) =>
             `${i ? '<div class="chain-arrow">↓</div>' : ""}<div class="chain-node ${i === 0 ? "cause" : i === a.length - 1 ? "effect" : ""}">${t}</div>`).join("")}</div></div>
         </details>`).join("")}</div>
-        <div class="callout warn" style="margin-top:14px"><p>Fokus modul ini tetap fisiologi. Detail diagnosis & terapi dipelajari di blok klinis.</p></div>`;
+        ${c.note === "" ? "" : `<div class="callout warn" style="margin-top:14px"><p>${c.note || "Fokus modul ini tetap fisiologi. Detail diagnosis & terapi dipelajari di blok klinis."}</p></div>`}`;
       break;
     case "order":
       body = `<div class="route-slots"></div><div class="token-pool"></div>
@@ -195,6 +195,11 @@ function renderCard(c, s, ci) {
       body = `<div class="match-grid"><div class="match-col" data-side="l"></div><div class="match-col" data-side="r"></div></div>
         <div class="small match-msg" style="margin-top:10px"></div>
         <div class="btn-row" style="margin-top:10px"><button class="btn btn-sm" data-act="reset" type="button">↺ Ulangi</button></div>`;
+      break;
+    case "flash":
+      body = `<div class="flash-bar"><span class="small muted flash-count"></span>
+          <span class="btn-row"><button class="btn btn-sm" data-act="shuffle" type="button">🔀 Acak</button><button class="btn btn-sm" data-act="flipall" type="button">↺ Tutup semua</button></span></div>
+        <div class="flash-grid">${c.cards.map(([f, b], i) => `<button type="button" class="flash" data-i="${i}"><span class="flash-in"><span class="flash-f">${f}</span><span class="flash-b">${b}</span></span></button>`).join("")}</div>`;
       break;
     default:
       body = c.html || "";
@@ -208,6 +213,7 @@ function initCard(c, el, secEl) {
   else if (c.type === "chain") initChainCard(c, el);
   else if (c.type === "order") initOrder(c, el);
   else if (c.type === "match") initMatch(c, el);
+  else if (c.type === "flash") initFlash(c, el);
   if (c.init && c.type !== "explorer") c.init(el, secEl);
 }
 
@@ -236,6 +242,7 @@ function initExplorer(c, el, secEl) {
     dotBtns.forEach((b, j) => b.classList.toggle("on", j === idx));
     prev.disabled = idx === 0 && !playing;
     next.textContent = idx === steps.length - 1 ? "↺ Dari awal" : "Selanjutnya →";
+    if (s.viz !== undefined && viz._cur !== s.viz) { viz.innerHTML = s.viz; viz._cur = s.viz; bindInfo(); }
     if (c.onStep) c.onStep(idx, s, api);
   }
   function stop() {
@@ -253,7 +260,8 @@ function initExplorer(c, el, secEl) {
   dotBtns.forEach((b, j) => b.addEventListener("click", () => { stop(); go(j); }));
   document.addEventListener("lesson:show", (e) => { if (e.detail.id !== secEl.id) stop(); });
 
-  if (c.info) {
+  function bindInfo() {
+    if (!c.info) return;
     K.$$("[data-info]", viz).forEach((part) => {
       part.classList.add("part");
       if (!part.hasAttribute("tabindex")) part.setAttribute("tabindex", "0");
@@ -262,6 +270,7 @@ function initExplorer(c, el, secEl) {
       part.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); show(); } });
     });
   }
+  bindInfo();
   if (c.init) c.init(api, secEl);
   go(0);
 }
@@ -425,3 +434,14 @@ K.heartSVG = function (uid, opts = {}) {
   <text class="svg-label small" x="100" y="190" text-anchor="middle">VKa</text>
   <text class="svg-label small" x="200" y="190" text-anchor="middle">VKi</text>` : ""}`;
 };
+
+/* ---------- Flashcard hafalan ---------- */
+function initFlash(c, el) {
+  const grid = K.$(".flash-grid", el), cnt = K.$(".flash-count", el);
+  const seen = new Set();
+  const upd = () => { cnt.textContent = `Sudah dibuka: ${seen.size}/${c.cards.length} — ketuk kartu untuk membalik`; };
+  K.$$(".flash", grid).forEach((b) => b.addEventListener("click", () => { b.classList.toggle("flipped"); seen.add(b.dataset.i); upd(); }));
+  K.$('[data-act="flipall"]', el).addEventListener("click", () => K.$$(".flash", grid).forEach((b) => b.classList.remove("flipped")));
+  K.$('[data-act="shuffle"]', el).addEventListener("click", () => { shuffleArr(K.$$(".flash", grid)).forEach((b) => { b.classList.remove("flipped"); grid.appendChild(b); }); });
+  upd();
+}

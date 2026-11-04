@@ -10,7 +10,8 @@
     return 0.65 * Math.exp(-(f - 0.43) * 3.2) - 0.65 * Math.exp(-0.57 * 3.2) * ((f - 0.43) / 0.57);
   }
   const bp = (f, s, d) => d + (s - d) * Math.max(0, wave(f));
-  const classify = (s, d) => s >= 140 || d >= 90 ? ["Hipertensi derajat 2 (≥140/90)", "red"] : s >= 130 || d >= 80 ? ["Hipertensi derajat 1 (130–139 / 80–89)", "warn"] : s >= 120 ? ["Meningkat (120–129 / <80)", "warn"] : s < 90 || d < 60 ? ["Hipotensi (<90/60)", "warn"] : ["Normal (<120/<80)", "green"];
+  // Klasifikasi PERHI 2019 (mengacu ESH/ESC 2018)
+  const classify = (s, d) => s >= 180 || d >= 110 ? ["Hipertensi derajat 3 (≥180/≥110)", "red"] : s >= 160 || d >= 100 ? ["Hipertensi derajat 2 (160–179 / 100–109)", "red"] : s >= 140 && d < 90 ? ["Hipertensi sistolik terisolasi (≥140 / <90)", "warn"] : s >= 140 || d >= 90 ? ["Hipertensi derajat 1 (140–159 / 90–99)", "warn"] : s >= 130 || d >= 85 ? ["Normal-tinggi (130–139 / 85–89)", "warn"] : s < 90 || d < 60 ? ["Hipotensi (<90/60)", "warn"] : s < 120 && d < 80 ? ["Optimal (<120/<80)", "green"] : ["Normal (120–129 / 80–84)", "green"];
 
   const SX = (t) => 40 + t / 2 * 370, SY = (p) => 190 - (p - 50) / 90 * 170;
   const VIZ = `<svg viewBox="0 0 420 260" role="img" aria-label="Gelombang tekanan arteri">
@@ -110,7 +111,7 @@
               if (CO > 6) why.push("CO ↑ → MAP ↑ dan SV besar memperlebar tekanan nadi"); if (CO < 4) why.push("CO ↓ → MAP ↓");
               if (C < .8) why.push("arteri kaku → sistolik ↑, diastolik ↓, tekanan nadi melebar"); if (C > 1.2) why.push("arteri lentur → tekanan nadi menyempit");
               K.$("#b-cls", el).className = "callout " + col;
-              K.$("#b-cls", el).innerHTML = `<p><b>Kategori: ${txt}.</b> ${why.length ? why.join("; ") + "." : "Semua parameter normal."}</p>`;
+              K.$("#b-cls", el).innerHTML = `<p><b>Kategori (PERHI 2019): ${txt}.</b> ${why.length ? why.join("; ") + "." : "Semua parameter normal."}</p>`;
             }
             [co, tpr, c].forEach((x) => x.addEventListener("input", upd)); upd();
           } },
