@@ -439,3 +439,30 @@ input[type="range"] { width: 100%; accent-color: var(--primary); height: 28px; }
 /* Garis aliran putus-putus yang bergerak */
 .flow-dash { stroke-dasharray: 10 8; animation: dashflow 1s linear infinite; }
 @keyframes dashflow { to { stroke-dashoffset: -18; } }
+
+/* Game pasangan */
+.match-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.match-col { display: flex; flex-direction: column; gap: 8px; }
+.match-col .token { text-align: left; }
+.token.selected { border-color: var(--accent); background: var(--accent-soft); color: var(--accent); }
+
+/* Panel angka (readout) */
+.readouts { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 8px; margin: 10px 0; }
+.readout { background: var(--surface-2); border-radius: 12px; padding: 10px 12px; }
+.readout span { display: block; font-size: .75rem; color: var(--text-soft); }
+.readout b { font-size: 1.25rem; font-variant-numeric: tabular-nums; }
+.readout b small { font-size: .75rem; font-weight: 500; color: var(--text-soft); }
+.readout.big b { font-size: 1.8rem; color: var(--primary); }
+
+.toggle-row { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
+.toggle-row .btn.on { background: var(--primary); border-color: var(--primary); color: #fff; }
+.two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: start; }
+@media (max-width: 720px) { .two-col { grid-template-columns: 1fr; } }
+.svg-axis { stroke: var(--border); stroke-width: 1; }
+.svg-grid { stroke: var(--border); stroke-width: .6; stroke-dasharray: 3 4; }
+.table { width: 100%; border-collapse: collapse; font-size: .9rem; }
+.table th, .table td { padding: 8px 10px; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; }
+.table th { color: var(--text-soft); font-size: .78rem; text-transform: uppercase; letter-spacing: .04em; }
+.table-wrap { overflow-x: auto; }
+.pulse-hl { animation: pulsehl 1s ease-in-out infinite; }
+@keyframes pulsehl { 0%,100% { opacity: 1; } 50% { opacity: .45; } }

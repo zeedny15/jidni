@@ -10,25 +10,25 @@ const MODULES = [
   // A. Fisiologi Jantung
   { id: "a01", group: "A", num: 1, title: "Sirkulasi Sistemik & Pulmonal", file: "a01-sirkulasi.html", ready: true,
     desc: "Perjalanan darah melalui dua sirkuit: paru dan seluruh tubuh." },
-  { id: "a02", group: "A", num: 2, title: "Sirkulasi Koroner", desc: "Bagaimana otot jantung sendiri mendapat darah." },
-  { id: "a03", group: "A", num: 3, title: "Produksi ATP di Otot Jantung", desc: "Bahan bakar jantung yang tak pernah berhenti bekerja." },
-  { id: "a04", group: "A", num: 4, title: "Ciri & Jenis Sel Otot Jantung", desc: "Sel kontraktil vs sel autoritmik, diskus interkalaris." },
-  { id: "a05", group: "A", num: 5, title: "Sistem Hantaran Jantung", desc: "SA node → AV node → Bundle of His → Purkinje." },
-  { id: "a06", group: "A", num: 6, title: "Ritme Jantung & Pacemaker Potential", desc: "Mengapa jantung bisa berdenyut sendiri." },
-  { id: "a07", group: "A", num: 7, title: "Potensial Aksi Sel Kontraktil", desc: "Fase 0–4 dan peran Na⁺, Ca²⁺, K⁺." },
-  { id: "a08", group: "A", num: 8, title: "Elektrokardiogram (EKG)", desc: "Membaca gelombang P, QRS, dan T." },
-  { id: "a09", group: "A", num: 9, title: "Bunyi Jantung S1 & S2", desc: "Asal bunyi jantung dan titik auskultasi." },
-  { id: "a10", group: "A", num: 10, title: "Siklus Jantung & Diagram Wiggers", desc: "Tekanan, volume, katup, EKG dalam satu waktu." },
-  { id: "a11", group: "A", num: 11, title: "Cardiac Output & Cardiac Reserve", desc: "CO = HR × SV dan kapasitas cadangan jantung." },
-  { id: "a12", group: "A", num: 12, title: "Pengaturan Denyut Jantung", desc: "Saraf otonom, pusat kardiovaskular, reseptor." },
-  { id: "a13", group: "A", num: 13, title: "Stroke Volume & Hukum Frank-Starling", desc: "Preload, kontraktilitas, dan afterload." },
+  { id: "a02", group: "A", num: 2, title: "Sirkulasi Koroner", file: "a02-koroner.html", ready: true, desc: "Bagaimana otot jantung sendiri mendapat darah." },
+  { id: "a03", group: "A", num: 3, title: "Produksi ATP di Otot Jantung", file: "a03-atp.html", desc: "Bahan bakar jantung yang tak pernah berhenti bekerja." },
+  { id: "a04", group: "A", num: 4, title: "Ciri & Jenis Sel Otot Jantung", file: "a04-sel-otot.html", desc: "Sel kontraktil vs sel autoritmik, diskus interkalaris." },
+  { id: "a05", group: "A", num: 5, title: "Sistem Hantaran Jantung", file: "a05-hantaran.html", desc: "SA node → AV node → Bundle of His → Purkinje." },
+  { id: "a06", group: "A", num: 6, title: "Ritme Jantung & Pacemaker Potential", file: "a06-pacemaker.html", desc: "Mengapa jantung bisa berdenyut sendiri." },
+  { id: "a07", group: "A", num: 7, title: "Potensial Aksi Sel Kontraktil", file: "a07-potensial-aksi.html", desc: "Fase 0–4 dan peran Na⁺, Ca²⁺, K⁺." },
+  { id: "a08", group: "A", num: 8, title: "Elektrokardiogram (EKG)", file: "a08-ekg.html", desc: "Membaca gelombang P, QRS, dan T." },
+  { id: "a09", group: "A", num: 9, title: "Bunyi Jantung S1 & S2", file: "a09-bunyi-jantung.html", desc: "Asal bunyi jantung dan titik auskultasi." },
+  { id: "a10", group: "A", num: 10, title: "Siklus Jantung & Diagram Wiggers", file: "a10-siklus-wiggers.html", desc: "Tekanan, volume, katup, EKG dalam satu waktu." },
+  { id: "a11", group: "A", num: 11, title: "Cardiac Output & Cardiac Reserve", file: "a11-cardiac-output.html", desc: "CO = HR × SV dan kapasitas cadangan jantung." },
+  { id: "a12", group: "A", num: 12, title: "Pengaturan Denyut Jantung", file: "a12-pengaturan-hr.html", desc: "Saraf otonom, pusat kardiovaskular, reseptor." },
+  { id: "a13", group: "A", num: 13, title: "Stroke Volume & Hukum Frank-Starling", file: "a13-stroke-volume.html", desc: "Preload, kontraktilitas, dan afterload." },
   // B. Fisiologi Vaskular
-  { id: "b01", group: "B", num: 1, title: "Jenis Pembuluh Darah", desc: "Arteri, arteriol, kapiler, venula, vena." },
-  { id: "b02", group: "B", num: 2, title: "Karakteristik Tiap Pembuluh", desc: "Dinding, diameter, kecepatan aliran, tekanan." },
-  { id: "b03", group: "B", num: 3, title: "Tekanan Darah", desc: "Sistolik, diastolik, tekanan nadi, MAP." },
-  { id: "b04", group: "B", num: 4, title: "Resistensi Perifer", desc: "Hukum Poiseuille: jari-jari adalah kunci." },
-  { id: "b05", group: "B", num: 5, title: "Faktor Venous Return", desc: "Pompa otot, pompa respirasi, venokonstriksi." },
-  { id: "b06", group: "B", num: 6, title: "Regulasi Tekanan & Aliran Darah", desc: "Kontrol lokal, neural, dan hormonal." },
+  { id: "b01", group: "B", num: 1, title: "Jenis Pembuluh Darah", file: "b01-jenis-pembuluh.html", desc: "Arteri, arteriol, kapiler, venula, vena." },
+  { id: "b02", group: "B", num: 2, title: "Karakteristik Tiap Pembuluh", file: "b02-karakteristik.html", desc: "Dinding, diameter, kecepatan aliran, tekanan." },
+  { id: "b03", group: "B", num: 3, title: "Tekanan Darah", file: "b03-tekanan-darah.html", desc: "Sistolik, diastolik, tekanan nadi, MAP." },
+  { id: "b04", group: "B", num: 4, title: "Resistensi Perifer", file: "b04-resistensi.html", desc: "Hukum Poiseuille: jari-jari adalah kunci." },
+  { id: "b05", group: "B", num: 5, title: "Faktor Venous Return", file: "b05-venous-return.html", desc: "Pompa otot, pompa respirasi, venokonstriksi." },
+  { id: "b06", group: "B", num: 6, title: "Regulasi Tekanan & Aliran Darah", file: "b06-regulasi.html", desc: "Kontrol lokal, neural, dan hormonal." },
 ];
 
 const GROUPS = { A: "A. Fisiologi Jantung", B: "B. Fisiologi Vaskular" };
@@ -206,8 +206,12 @@ function initLesson() {
     Progress.visit(moduleId, i, total);
     refreshProgress();
     prev.disabled = i === 0;
-    next.innerHTML = i === total - 1 ? "Kembali ke beranda ⌂" : `${sections[i + 1].dataset.title} →`;
-    next.dataset.home = i === total - 1 ? "1" : "";
+    const mi = MODULES.findIndex((m) => m.id === moduleId);
+    const nextMod = MODULES.slice(mi + 1).find((m) => m.ready);
+    next.innerHTML = i === total - 1
+      ? (nextMod ? `Topik berikutnya: ${nextMod.group}${nextMod.num} →` : "Kembali ke beranda ⌂")
+      : `${sections[i + 1].dataset.title} →`;
+    next.dataset.home = i === total - 1 ? (nextMod ? `modul/${nextMod.file}` : "index.html") : "";
     current = i;
     try { history.replaceState(null, "", "#" + sections[i].id); } catch (e) {}
     if (scroll) window.scrollTo({ top: 0, behavior: "smooth" });
@@ -218,7 +222,7 @@ function initLesson() {
   btns.forEach((b) => b.addEventListener("click", () => show(+b.dataset.i)));
   prev.addEventListener("click", () => show(current - 1));
   next.addEventListener("click", () => {
-    if (next.dataset.home) location.href = (document.body.dataset.root || "") + "index.html";
+    if (next.dataset.home) location.href = (document.body.dataset.root || "") + next.dataset.home;
     else show(current + 1);
   });
 
