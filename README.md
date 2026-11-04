@@ -12,17 +12,22 @@ Online: https://zeedny15.github.io/jidni/
 
 Progres belajar tersimpan di browser (localStorage) perangkat masing-masing.
 
-## Materi (19 topik, semua tersedia)
-**A. Fisiologi Jantung** — A1 Sirkulasi sistemik & pulmonal · A2 Sirkulasi koroner · A3 Produksi ATP ·
-A4 Sel otot jantung · A5 Sistem hantaran · A6 Pacemaker potential · A7 Potensial aksi sel kontraktil ·
-A8 EKG · A9 Bunyi jantung & auskultasi · A10 Siklus jantung & Diagram Wiggers · A11 Cardiac output & reserve ·
+## Materi (30 topik, mengikuti urutan kuliah blok CVS)
+**D. Dasar** — D1 Embriologi · D2 Anatomi · D3 Histologi
+
+**A. Fisiologi Jantung** — A1 Sirkulasi sistemik & pulmonal · A2 Koroner · A3 ATP · A4 Sel otot jantung · A5 Sistem hantaran ·
+A6 Pacemaker potential · A7 Potensial aksi · A8 EKG · A9 Bunyi jantung · A10 Siklus jantung & Wiggers · A11 Cardiac output ·
 A12 Pengaturan denyut jantung · A13 Stroke volume & Frank-Starling
 
-**B. Fisiologi Vaskular** — B1 Jenis pembuluh · B2 Karakteristik pembuluh (+ gaya Starling) · B3 Tekanan darah (+ simulasi Korotkoff) ·
-B4 Resistensi perifer (Poiseuille) · B5 Venous return · B6 Regulasi lokal, neural, hormonal
+**B. Fisiologi Vaskular** — B1 Jenis pembuluh · B2 Karakteristik pembuluh · B3 Tekanan darah · B4 Resistensi perifer ·
+B5 Venous return · B6 Regulasi lokal, neural, hormonal
 
-Setiap topik berisi 6 bagian: Gambaran Besar, Langkah demi Langkah (visual animasi + tombol Sebelumnya/Selanjutnya/Putar),
-Sebab-Akibat, Interaksi (slider, simulator, game), Hubungan Klinis, dan Cek Pemahaman (5 soal + pembahasan).
+**C. Klinis & Farmakologi** — C1 Kelainan kongenital (VSD, ASD, PDA, ToF) · C2 Hipertensi · C3 PJK (SKA & SKK) ·
+C4 Farmakoterapi hipertensi & antiangina · C5 Endokarditis, miokarditis, perikarditis & PJR · C6 Kelainan katup ·
+C7 Kardiomiopati & kor pulmonale · C8 Statin, antiplatelet & trombolitik
+
+Setiap topik: Gambaran Besar → Langkah demi Langkah (visual animasi) → Sebab-Akibat → Interaksi → (Hafalan: jembatan keledai +
+flashcard) → Hubungan/Kasus Klinis → Cek Pemahaman.
 
 ## Struktur
 ```
