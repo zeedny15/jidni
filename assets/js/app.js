@@ -25,7 +25,7 @@ const MODULES = [
   // B. Fisiologi Vaskular
   { id: "b01", group: "B", num: 1, title: "Jenis Pembuluh Darah", file: "b01-jenis-pembuluh.html", ready: true, desc: "Arteri, arteriol, kapiler, venula, vena." },
   { id: "b02", group: "B", num: 2, title: "Karakteristik Tiap Pembuluh", file: "b02-karakteristik.html", ready: true, desc: "Dinding, diameter, kecepatan aliran, tekanan." },
-  { id: "b03", group: "B", num: 3, title: "Tekanan Darah", file: "b03-tekanan-darah.html", desc: "Sistolik, diastolik, tekanan nadi, MAP." },
+  { id: "b03", group: "B", num: 3, title: "Tekanan Darah", file: "b03-tekanan-darah.html", ready: true, desc: "Sistolik, diastolik, tekanan nadi, MAP." },
   { id: "b04", group: "B", num: 4, title: "Resistensi Perifer", file: "b04-resistensi.html", desc: "Hukum Poiseuille: jari-jari adalah kunci." },
   { id: "b05", group: "B", num: 5, title: "Faktor Venous Return", file: "b05-venous-return.html", desc: "Pompa otot, pompa respirasi, venokonstriksi." },
   { id: "b06", group: "B", num: 6, title: "Regulasi Tekanan & Aliran Darah", file: "b06-regulasi.html", desc: "Kontrol lokal, neural, dan hormonal." },
