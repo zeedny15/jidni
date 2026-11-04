@@ -41,7 +41,7 @@ const MODULES = [
   { id: "c05", group: "C", num: 5, title: "Radang Dinding Jantung & PJR", file: "c05-radang-pjr.html", ready: true, desc: "Endokarditis, miokarditis, perikarditis, penyakit jantung reumatik." },
   { id: "c06", group: "C", num: 6, title: "Kelainan Katup Jantung", file: "c06-katup.html", ready: true, desc: "Stenosis & regurgitasi mitral/aorta, dan lainnya." },
   { id: "c07", group: "C", num: 7, title: "Kardiomiopati & Kor Pulmonale", file: "c07-kardiomiopati.html", ready: true, desc: "Dilatasi, hipertrofik, restriktif; kor pulmonale akut & kronik." },
-  { id: "c08", group: "C", num: 8, title: "Farmakoterapi Trombotik & Dislipidemia", file: "c08-farmako-trombotik.html", desc: "Statin, antiplatelet, trombolitik." },
+  { id: "c08", group: "C", num: 8, title: "Farmakoterapi Trombotik & Dislipidemia", file: "c08-farmako-trombotik.html", ready: true, desc: "Statin, antiplatelet, trombolitik." },
 ];
 
 const GROUPS = { D: "D. Dasar: Embriologi, Anatomi & Histologi", A: "A. Fisiologi Jantung", B: "B. Fisiologi Vaskular", C: "C. Klinis & Farmakologi" };
