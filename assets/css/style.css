@@ -488,3 +488,5 @@ input[type="range"] { width: 100%; accent-color: var(--primary); height: 28px; }
 .flash-b { background: var(--surface); border: 1.5px solid var(--ok); transform: rotateY(180deg); color: var(--text); }
 .mnemo { font-size: 1.05rem; letter-spacing: .02em; }
 .mnemo b { color: var(--primary); font-size: 1.2rem; }
+.nolabel .hl-lbl { opacity: 0; transition: opacity .2s; }
+.hl-lbl { paint-order: stroke; stroke: #fff; stroke-width: 3px; fill: #1d2433 !important; }
