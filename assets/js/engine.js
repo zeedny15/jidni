@@ -350,3 +350,37 @@ function initMatch(c, el) {
   K.$('[data-act="reset"]', el).addEventListener("click", reset);
   reset();
 }
+
+/* ---------- Partikel yang bergerak di sepanjang path SVG ---------- */
+K.flow = function (layer) {
+  const NS = "http://www.w3.org/2000/svg";
+  let items = [], clock = 0;
+  return {
+    /** paths: [{ el, color (string atau fungsi f→warna), n, speed, r }] */
+    set(paths) {
+      layer.innerHTML = ""; items = [];
+      paths.forEach((p) => {
+        const len = p.el.getTotalLength();
+        const n = p.n || Math.max(2, Math.round(len / 40));
+        for (let i = 0; i < n; i++) {
+          const c = document.createElementNS(NS, "circle");
+          c.setAttribute("r", p.r || 4.5);
+          c.setAttribute("stroke", "#fff"); c.setAttribute("stroke-width", "1.2");
+          layer.appendChild(c);
+          items.push({ c, p, len, off: (i / n) * len });
+        }
+      });
+      this.tick(0);
+    },
+    tick(dt) {
+      clock += dt;
+      items.forEach((it) => {
+        const d = (it.off + clock * (it.p.speed || 50)) % it.len;
+        const pt = it.p.el.getPointAtLength(d);
+        it.c.setAttribute("cx", pt.x); it.c.setAttribute("cy", pt.y);
+        const col = typeof it.p.color === "function" ? it.p.color(d / it.len) : (it.p.color || K.css("--o2-rich"));
+        it.c.setAttribute("fill", col);
+      });
+    },
+  };
+};
